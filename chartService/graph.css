@@ -1,0 +1,47 @@
+body{
+    /*background-color: #455A64;*/
+    background-color: white;
+    overflow: hidden;
+    min-height: auto;
+    max-height: auto;
+    font-family: "Segoe UI";
+}
+
+/*#graphVitesse{
+    background-color: white;
+}
+
+#graphEnergie{
+    background-color: white;
+}*/
+
+h1 {
+    text-align: center;
+    /*color: white;*/
+    color: #353F40;
+    font-family: "Segoe UI";
+}
+
+h1:hover {
+  cursor: default;
+}
+
+.ct-chart{
+    background-color: white;
+    font-family: "Segoe UI";
+
+    margin-right: auto;
+    margin-left: auto;
+
+    height: 60%;
+    min-height: 60%;
+    max-height: 60%;
+
+    width: 60%;
+    min-width: 60%;
+    max-width: 60%;
+}
+
+.ct-chart:hover {
+  cursor: default;
+}

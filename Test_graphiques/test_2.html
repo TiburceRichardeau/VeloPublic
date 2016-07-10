@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Histogramme Collaboration</title>
+    <link rel="stylesheet" type="text/css" href="chartist.min.css"/>
+    <script src="jquery-2.2.2.min.js"></script>
+    <script src="chartist.min.js"></script>
+</head>
+<body>
+  <h1><center> Histogramme resumant la Collaboration <center/></h1>
+    <div id='bar-chart' class="ct-chart ct-perfect-fourth"/>
+	
+</body>
+<script type="text/javascript">
+
+var chart = new Chartist.Bar('.ct-chart', {
+  labels: ['Energie Produite', 'Distance Parcourue', 'Vitesse Moyenne'],
+  series: [
+    [40, 1.3, 9],
+    [100, 2.9, 11],
+    [85, 2.1, 15],
+	[60, 1.7, 16]
+  ]
+}, {
+  stackBars: true,
+  axisY: {
+    labelInterpolationFnc: function(value) {
+      return (value);
+    }
+  }
+}).on('draw', function(data) {
+  if(data.type === 'bar') {
+    data.element.attr({
+      style: 'stroke-width: 70px'
+    });
+  }
+});
+
+
+
+/*
+//Attribution du nom du server, utilisateur, mot de passe et base de données à des variables
+$servername = "localhost";
+$username = "userVeloPublic";
+$password = "userVeloPublic";
+$dbName = "veloinfospublic";
+
+// On établit la connection à la base de données
+$conn = new mysqli($servername, $username, $password, $dbName);
+//On vérifie s'il y a une erreur durant la derniere connection en court
+if ($conn->connect_error) {
+	die("Connection failed : " . $conn->connect_error);
+}
+
+//Exécution de la requete SQL
+$query = "SELECT * FROM Resume_Collabo";
+//On stocke le résultat de l'exécution précédente
+$result = $conn->query($query);
+
+//On initialise le tableau pour stocker les données traitées
+$jsonArray = array();
+
+//On vérifie s'il y a des données renvoyées par le SQL query
+if ($result-> num_rows > 0) {
+	
+	//On converti les resultats en des association de tableaux
+	while($row = $result->fetch_assoc()) {
+		$jsonArrayItem = array();
+		$jsonArrayItem['label1'] = $row['Energie Produite'];
+		$jsonArrayItem['label2'] = $row['Distance Parcourue'];
+		$jsonArrayItem['label3'] = $row['Vitesse Moyenne'];
+		
+		$jsonArrayItem['value'] = $row[''];
+		
+		//On ajoute l'objet crée ci-dessus dans le tableau principal
+		array_push($jsonArray, $jsonArrayItem);
+	}
+}
+
+//On ferme la connection à la base de données
+$conn->close();
+
+//On enregistre le contenu en JSON
+header('Content-type: application/json');
+//La valeur retournée encodée en json utilise la fonction echo
+echo json_encode($jsonArray);
+
+
+var apiChart = new FusionCharts({
+	type: 'bar',
+	renderAt: 'api-chart-container',
+	width: '550',
+	height: '350',
+	dataFormat: 'json',
+	dataSource: {
+		"chart": chartProperties,
+		"data": chartData
+	}
+});
+
+/*$(function(){
+	$("#background-btn").click(function(){
+		modifyBackground();
+	});
+	
+	$("#canvas-btn").click(function(){
+		modifyCanvas();
+	});
+	
+	$("#dataplot-btn").click(function(){
+		modifyDataplot();
+	});
+	
+	apiChart.render();
+});
+
+
+$.ajax({
+
+	url: 'http://localhost/Test_graphiques/test_2.php',
+	type: 'GET',
+	success: function(data) {
+		chartData = data;
+	}
+});
+
+var chartProperties = {
+	"caption": "Resume de la Collaboration",
+	"xAxisName": "Energie Produite", "Distance Parcourue", "Vitesse Moyenne",
+	"yAxisName": "",
+	"rotatevalues": "5",
+	"theme": ""
+};
+apiChart = new FusionCharts({
+	type: 'bar',
+	renderAt: 'api-chart-container',
+	width: '550',
+	height: '350',
+	dataFormat: 'json',
+	dataSource: {
+		"chart": chartProperties,
+		"data": chartData
+	}
+	apiChart.render();
+});
+
+
+
+
+
+<?php
+$servername = "localhost";
+$username = "userVeloPublic";
+$password = "userVeloPublic";
+$dbName = "veloinfospublic";
+
+//Connection à la base de données
+$conn = new mysqli($servername, $username, $password, $dbName);
+
+//On vérifie s'il y a une erreur durant la derniere connection en court
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+
+//Exécution de la requete SQL
+$query = "SELECT * FROM Resume_Collabo";
+//On stocke le résultat de l'exécution précédente
+$result = $conn->query($query);
+
+//On initialise le tableau pour stocker les données traitées
+$jsonArray = array();
+
+//On vérifie s'il y a des données renvoyées par le SQL query
+if ($result-> num_rows > 0) {
+	
+	//On converti les resultats en des association de tableaux
+	while($row = $result->fetch_assoc()) {
+		$jsonArrayItem = array();
+		$jsonArrayItem['label1'] = $row['Energie Produite'];
+		$jsonArrayItem['label2'] = $row['Distance Parcourue'];
+		$jsonArrayItem['label3'] = $row['Vitesse Moyenne'];
+		
+		$jsonArrayItem['value'] = $row[''];
+		
+		//On ajoute l'objet crée ci-dessus dans le tableau principal
+		array_push($jsonArray, $jsonArrayItem);
+	}
+}
+//On ferme la connection à la base de données
+$conn->close();
+
+//On enregistre le contenu en JSON
+header('Content-type: application/json');
+//La valeur retournée encodée en json utilise la fonction echo
+echo json_encode($jsonArray);*/
+
+</script>
+</html>

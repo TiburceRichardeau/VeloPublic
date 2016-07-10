@@ -1,0 +1,2 @@
+﻿il faut mettre "chartService" pour mes graphiques et "Test_graphiques" pour les graphiques de claire dans le dossier www de wamp
+executer le script SQL 2.9.5.sql et lancer l'application la base de donnnées doit être en local

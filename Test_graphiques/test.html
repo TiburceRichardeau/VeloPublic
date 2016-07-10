@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Graphique Collaboration 1</title>
+    <link rel="stylesheet" type="text/css" href="chartist.min.css"/>
+    <script src="jquery-2.2.2.min.js"></script>
+    <script src="chartist.min.js"></script>
+</head>
+<body>
+  <h1><center> Evolution de la Vitesse </center></h1>
+    <div id='bar-chart' class="ct-chart ct-perfect-fourth"/>
+	
+</body>
+<script type="text/javascript">
+
+var chart = new Chartist.Line('.ct-chart',
+{
+  labels: ['0', '5', '10', '15', '20', '25', '30', '35', '40', '45', '50', '55', '60', '65', '70', '75', '80'],
+  series: [
+	[0, 3, 6, 8, 10, 11, 12, 13, 12, 11, 11, 11, 12, 12, 10, 10, 10],
+    [0, 7, 13, 15, 16, 15, 14, 13, 14, 14, 13, 13, 14, 14, 14, 13, 13],
+    [0, 6, 11, 12, 13, 14, 13, 13, 12, 12, 12, 13, 13, 12, 12, 11, 11],
+	[0, 4, 7, 9, 11, 12, 13, 14, 13, 13, 12, 12, 11, 11, 12, 12, 11]
+    ]
+});
+
+var seq = 0,
+  delays = 80,
+  durations = 500;
+  
+  chart.on('created', function() {
+  seq = 0;
+});
+
+chart.on('draw', function(data) {
+  seq++;
+
+  if(data.type === 'line') {
+	 data.element.animate({
+      opacity: {
+		begin: seq * delays + 1000,
+		dur: durations,
+		from: 0,
+		to: 1
+      }
+    });
+  } else if(data.type === 'label' && data.axis === 'x') {
+    data.element.animate({
+      y: {
+        begin: seq * delays,
+        dur: durations,
+        from: data.y + 100,
+        to: data.y,
+		
+		easing: 'easeOutQuart'
+      }
+    });
+  } else if(data.type === 'label' && data.axis === 'y') {
+    data.element.animate({
+      x: {
+        begin: seq * delays,
+        dur: durations,
+        from: data.x - 100,
+        to: data.x,
+        easing: 'easeOutQuart'
+      }
+    });
+  } else if(data.type === 'point') {
+    data.element.animate({
+      x1: {
+        begin: seq * delays,
+        dur: durations,
+        from: data.x - 10,
+        to: data.x,
+        easing: 'easeOutQuart'
+      },
+      x2: {
+        begin: seq * delays,
+        dur: durations,
+        from: data.x - 10,
+        to: data.x,
+        easing: 'easeOutQuart'
+      },
+      opacity: {
+        begin: seq * delays,
+        dur: durations,
+        from: 0,
+        to: 1,
+        easing: 'easeOutQuart'
+      }
+    });
+  } else if(data.type === 'grid') {
+	var pos1Animation = {
+      begin: seq * delays,
+      dur: durations,
+      from: data[data.axis.units.pos + '1'] - 30,
+      to: data[data.axis.units.pos + '1'],
+      easing: 'easeOutQuart'
+    };
+
+    var pos2Animation = {
+      begin: seq * delays,
+      dur: durations,
+      from: data[data.axis.units.pos + '2'] - 100,
+      to: data[data.axis.units.pos + '2'],
+      easing: 'easeOutQuart'
+    };
+
+    var animations = {};
+    animations[data.axis.units.pos + '1'] = pos1Animation;
+    animations[data.axis.units.pos + '2'] = pos2Animation;
+    animations['opacity'] = {
+      begin: seq * delays,
+      dur: durations,
+      from: 0,
+      to: 1,
+      easing: 'easeOutQuart'
+    };
+
+    data.element.animate(animations);
+  }
+});
+
+</script>
+</html>
