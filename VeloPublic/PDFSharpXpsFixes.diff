@@ -1,0 +1,207 @@
+Index: PdfSharp.Xps.csproj
+===================================================================
+--- PdfSharp.Xps.csproj	(revision 706)
++++ PdfSharp.Xps.csproj	(revision 728)
+@@ -32,7 +32,7 @@
+     <DebugType>pdbonly</DebugType>
+     <Optimize>true</Optimize>
+     <OutputPath>bin\Release\</OutputPath>
+-    <DefineConstants>TRACE</DefineConstants>
++    <DefineConstants>DEBUG;TRACE</DefineConstants>
+     <ErrorReport>prompt</ErrorReport>
+     <WarningLevel>4</WarningLevel>
+   </PropertyGroup>
+Index: PdfSharp.Xps.Parsing/XpsParser.ImageBrush.cs
+===================================================================
+--- PdfSharp.Xps.Parsing/XpsParser.ImageBrush.cs	(revision 706)
++++ PdfSharp.Xps.Parsing/XpsParser.ImageBrush.cs	(revision 728)
+@@ -19,6 +19,7 @@
+       Debug.Assert(this.reader.Name == "ImageBrush");
+       bool isEmptyElement = this.reader.IsEmptyElement;
+       ImageBrush brush = new ImageBrush();
++      brush.Opacity = 1;
+       while (MoveToNextAttribute())
+       {
+         switch (this.reader.Name)
+Index: PdfSharp.Xps.Rendering/PdfGraphicsState.cs
+===================================================================
+--- PdfSharp.Xps.Rendering/PdfGraphicsState.cs	(revision 706)
++++ PdfSharp.Xps.Rendering/PdfGraphicsState.cs	(revision 728)
+@@ -112,10 +112,24 @@
+       if ((sBrush = brush as SolidColorBrush) != null)
+       {
+ 
++                var thickness = path.StrokeThickness;
++
++                // Adjust based on path geometry transform since XPS doesn't apply scale to stroke thickness
++                if (path.Data.Transform != null)
++                {
++                    var actualThickness = thickness * ((path.Data.Transform.Matrix.m11 + path.Data.Transform.Matrix.m12) + (path.Data.Transform.Matrix.m21 + path.Data.Transform.Matrix.m22)) / 2;
++                    /*
++                     * actual     requir
++                     * ------  =  ------
++                     * requir     necess
++                     */
++                    thickness = thickness * thickness / actualThickness;
++                }
++
+         //if (this.realizedLineWith != width)
+         {
+-          this.writer.WriteLiteral("{0:0.###} w\n", path.StrokeThickness);
+-          this.realizedLineWith = path.StrokeThickness;
++                    this.writer.WriteLiteral("{0:0.###} w\n", thickness);
++                    this.realizedLineWith = thickness;
+         }
+ 
+         RealizeStrokeStyle(path);
+Index: PdfSharp.Xps.Rendering/TilingPatternBuilder.cs
+===================================================================
+--- PdfSharp.Xps.Rendering/TilingPatternBuilder.cs	(revision 706)
++++ PdfSharp.Xps.Rendering/TilingPatternBuilder.cs	(revision 728)
+@@ -50,6 +50,11 @@
+ #if true
+       XMatrix matrix = transform;
+       matrix.Prepend(new XMatrix(1, 0, 0, 1, brush.Viewport.X, brush.Viewport.Y));
++            if (brush.Transform != null)
++            {
++                matrix.Prepend(new XMatrix(brush.Transform.Matrix.m11, brush.Transform.Matrix.m12, brush.Transform.Matrix.m21,
++                brush.Transform.Matrix.m22, brush.Transform.Matrix.offsetX, brush.Transform.Matrix.offsetY));
++            }
+ #else
+       double c = 1;
+       XMatrix matrix = new XMatrix(1 * c, 0, 0, 1 * c, brush.Viewport.X * c, brush.Viewport.Y * c); // HACK: 480
+@@ -232,11 +237,20 @@
+     {
+       // Bounding box lays always at (0,0)
+       XRect bbox = new XRect(0, 0, brush.Viewport.Width, brush.Viewport.Height);
++            
+       XMatrix matrix = transform;
+       matrix.Prepend(new XMatrix(1, 0, 0, 1, brush.Viewport.X, brush.Viewport.Y));
+-      double xStep = brush.Viewport.Width;
+-      double yStep = brush.Viewport.Height;
++            if (brush.Transform != null)
++            {
++                matrix.Prepend(new XMatrix(brush.Transform.Matrix.m11, brush.Transform.Matrix.m12, brush.Transform.Matrix.m21,
++                brush.Transform.Matrix.m22, brush.Transform.Matrix.offsetX, brush.Transform.Matrix.offsetY));
++            }
+ 
++            // Set X Step beyond the viewport if tilemode is set to none since
++            // there is no other easy way to turn off tiling - NPJ
++            double xStep = brush.Viewport.Width * (brush.TileMode == TileMode.None ? 2 : 1);
++            double yStep = brush.Viewport.Height * (brush.TileMode == TileMode.None ? 2 : 1);
++
+       // PdfTilingPattern
+       //<<
+       //  /BBox [0 0 240 120]
+@@ -348,15 +362,14 @@
+       //endstream
+       PdfFormXObject pdfForm = Context.PdfDocument.Internals.CreateIndirectObject<PdfFormXObject>();
+ 
+-      double width = brush.Viewport.Width;
+-      double height = brush.Viewport.Height;
+       pdfForm.DpiX = 96;
+       pdfForm.DpiY = 96;
+ 
+       // view box
+-      XRect box = new XRect(0, 0, width, height);
++            var box = new PdfRectangle(brush.Viewbox.X, brush.Viewbox.Y + brush.Viewbox.Height - 1, brush.Viewbox.X + brush.Viewbox.Width - 1, brush.Viewbox.Y);
+ 
+-      pdfForm.Elements.SetRectangle(PdfFormXObject.Keys.BBox, new PdfRectangle(0, height, width, 0));
++            pdfForm.Elements.SetRectangle(PdfFormXObject.Keys.BBox, box);
++
+       pdfForm.Elements.SetMatrix(PdfFormXObject.Keys.Matrix, new XMatrix());
+ 
+       PdfContentWriter writer = new PdfContentWriter(Context, pdfForm);
+@@ -365,15 +378,14 @@
+ 
+       writer.BeginContentRaw();
+       writer.WriteLiteral("-100 Tz\n");
+-      XMatrix matrix = new XMatrix(width, 0, 0, -height, 0, height);
+       writer.WriteLiteral("q\n");
+-      //writer.WriteMatrix(matrix);
+       writer.WriteVisual(brush.Visual);
+       writer.WriteLiteral("Q\n");
+ 
+ #if DEBUG
+       if (DevHelper.BorderPatterns)
+-        writer.WriteLiteral("1 1 1 rg 0 0 m {0:0.###} 0 l {0:0.###} {1:0.###} l 0 {1:0.###} l h s\n", width, height);
++                writer.WriteLiteral("1 1 1 rg 0 0 m {0:0.###} 0 l {0:0.###} {1:0.###} l 0 {1:0.###} l h s\n",
++                                            brush.Viewbox.Width, brush.Viewbox.Height);
+ #endif
+ 
+       writer.EndContent();
+Index: PdfSharp.Xps.Rendering/PdfContentWriter.cs
+===================================================================
+--- PdfSharp.Xps.Rendering/PdfContentWriter.cs	(revision 706)
++++ PdfSharp.Xps.Rendering/PdfContentWriter.cs	(revision 728)
+@@ -523,7 +523,7 @@
+           xgState.SetDefault1();
+ 
+           double opacity = Opacity * iBrush.Opacity;
+-          if (opacity < 1)
++          if (opacity <= 1)
+           {
+             xgState.StrokeAlpha = opacity;
+             xgState.NonStrokeAlpha = opacity;
+@@ -893,6 +893,14 @@
+     internal void WriteGeometry(PathGeometry geo)
+     {
+       BeginGraphic();
++
++      // PathGeometry itself may have its own transform
++      if (geo.Transform != null) // also check render mode?
++      {
++          MultiplyTransform(geo.Transform);
++          WriteRenderTransform(geo.Transform);
++      }
++
+       foreach (PathFigure figure in geo.Figures)
+       {
+         PolyLineSegment pseg;
+Index: PdfSharp.Xps/XpsConverter.cs
+===================================================================
+--- PdfSharp.Xps/XpsConverter.cs	(revision 706)
++++ PdfSharp.Xps/XpsConverter.cs	(revision 728)
+@@ -187,6 +187,42 @@
+     /// <summary>
+     /// Implements the PDF file to XPS file conversion.
+     /// </summary>
++    public static void Convert(XpsDocument xpsDocument, string pdfFilename, int docIndex)
++    {
++
++        if (xpsDocument == null)
++            throw new ArgumentNullException("xpsDocument");
++
++        if (String.IsNullOrEmpty(pdfFilename))
++            throw new ArgumentNullException("pdfFilename");
++
++        FixedDocument fixedDocument = xpsDocument.GetDocument();
++        PdfDocument pdfDocument = new PdfDocument();
++        PdfRenderer renderer = new PdfRenderer();
++
++        int pageIndex = 0;
++        foreach (FixedPage page in fixedDocument.Pages)
++        {
++            if (page == null)
++                continue;
++            Debug.WriteLine(String.Format("  doc={0}, page={1}", docIndex, pageIndex));
++            PdfPage pdfPage = renderer.CreatePage(pdfDocument, page);
++            renderer.RenderPage(pdfPage, page);
++            pageIndex++;
++
++#if DEBUG
++            // stop at page...
++            if (pageIndex == 50)
++                break;
++#endif
++        }
++        pdfDocument.Save(pdfFilename);
++
++    }
++
++    /// <summary>
++    /// Implements the PDF file to XPS file conversion.
++    /// </summary>
+     public static void Convert(string xpsFilename, string pdfFilename, int docIndex, bool createComparisonDocument)
+     {
+       if (String.IsNullOrEmpty(xpsFilename))

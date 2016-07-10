@@ -1,0 +1,2864 @@
+08/05/2016 22:44:36	Info		Infos Test
+08/05/2016 22:44:36	Info		Création d'un évenement
+08/05/2016 22:44:36	Info		Enregistrement de l'évenement dans la base de données
+08/05/2016 22:44:36	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:36	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:36	Info		Insertion dans la base de donnée
+08/05/2016 22:44:36	Info		Création d'un évenement
+08/05/2016 22:44:36	Info		Création d'un évenement
+08/05/2016 22:44:36	Info		Création d'un évenement
+08/05/2016 22:44:36	Info		Enregistrement de l'évenement dans la base de données
+08/05/2016 22:44:36	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:36	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:36	Info		Insertion dans la base de donnée
+08/05/2016 22:44:36	Info		Création d'un évenement
+08/05/2016 22:44:37	Info		Création d'un évenement
+08/05/2016 22:44:38	Info		Ouverture de le fenetre de choix de particiapant pour le mode 
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Vérification du temps de défi saisi
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Ajout du participant a la base de données
+08/05/2016 22:44:38	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:38	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:38	Info		Insertion dans la base de donnée
+08/05/2016 22:44:38	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:38	Info		Participant créé
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Ajout du participant a la base de données
+08/05/2016 22:44:38	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:38	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:38	Info		Insertion dans la base de donnée
+08/05/2016 22:44:38	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:38	Info		Participant créé
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Ajout du participant a la base de données
+08/05/2016 22:44:38	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:38	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:38	Info		Insertion dans la base de donnée
+08/05/2016 22:44:38	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:38	Info		Participant créé
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom vide
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom mal saisi :  
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom mal saisi :  
+08/05/2016 22:44:38	Info		Participant créé
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom mal saisi :  
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:38	Info		Participant créé
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:38	Info		Participant créé
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:38	Info		Création d'un participant
+08/05/2016 22:44:38	Info		Vérification du poids
+08/05/2016 22:44:38	Info		Poids correctement saisi : 250
+08/05/2016 22:44:38	Info		Vérification du nom du participant
+08/05/2016 22:44:38	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 250
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 250
+08/05/2016 22:44:39	Info		Ajout du participant a la base de données
+08/05/2016 22:44:39	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:39	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:39	Info		Insertion dans la base de donnée
+08/05/2016 22:44:39	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 250
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids Non saisi
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 1
+08/05/2016 22:44:39	Info		Ajout du participant a la base de données
+08/05/2016 22:44:39	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:39	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:39	Info		Insertion dans la base de donnée
+08/05/2016 22:44:39	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 1
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids mal saisi : test
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids mal saisi : test
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids mal saisi : test
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Le poids saisi est négatif ou nul
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Le poids saisi est négatif ou nul
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Le poids saisi est négatif ou nul
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10,1
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10,1
+08/05/2016 22:44:39	Info		Ajout du participant a la base de données
+08/05/2016 22:44:39	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:39	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:39	Info		Insertion dans la base de donnée
+08/05/2016 22:44:39	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10,1
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10.1
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10.1
+08/05/2016 22:44:39	Info		Ajout du participant a la base de données
+08/05/2016 22:44:39	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:39	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:39	Info		Insertion dans la base de donnée
+08/05/2016 22:44:39	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10.1
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids mal saisi : 1,79769313486232E+308
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids mal saisi : 1,79769313486232E+308
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids mal saisi : 1,79769313486232E+308
+08/05/2016 22:44:39	Info		Ouverture de le fenetre de choix de particiapant pour le mode 
+08/05/2016 22:44:39	Info		Affichage du temps du défi
+08/05/2016 22:44:39	Info		Affichage des champs d'enregistrement de P1
+08/05/2016 22:44:39	Info		Les champs d'enregistrement de P2 ont été masqués
+08/05/2016 22:44:39	Info		Les champs d'enregistrement de P3 ont été masqués
+08/05/2016 22:44:39	Info		Les champs d'enregistrement de P4 ont été masqués
+08/05/2016 22:44:39	Info		Affichage du temps du défi
+08/05/2016 22:44:39	Info		Affichage des champs d'enregistrement de P1
+08/05/2016 22:44:39	Info		Les champs d'enregistrement de P2 ont été masqués
+08/05/2016 22:44:39	Info		Les champs d'enregistrement de P3 ont été masqués
+08/05/2016 22:44:39	Info		Les champs d'enregistrement de P4 ont été masqués
+08/05/2016 22:44:39	Info		Création d'un participant
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10.1
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du nom du participant
+08/05/2016 22:44:39	Info		Nom vide
+08/05/2016 22:44:39	Info		Vérification du poids
+08/05/2016 22:44:39	Info		Poids correctement saisi : 10.1
+08/05/2016 22:44:39	Info		Ajout du participant a la base de données
+08/05/2016 22:44:39	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:39	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:39	Info		Insertion dans la base de donnée
+08/05/2016 22:44:39	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:44:39	Info		Participant créé
+08/05/2016 22:44:39	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:39	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:40	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:44:40	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:44:40	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:40	Info		Infos Test
+08/05/2016 22:45:40	Info		Création d'un évenement
+08/05/2016 22:45:40	Info		Enregistrement de l'évenement dans la base de données
+08/05/2016 22:45:41	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:41	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:41	Info		Insertion dans la base de donnée
+08/05/2016 22:45:41	Info		Création d'un évenement
+08/05/2016 22:45:41	Info		Création d'un évenement
+08/05/2016 22:45:41	Info		Création d'un évenement
+08/05/2016 22:45:41	Info		Enregistrement de l'évenement dans la base de données
+08/05/2016 22:45:41	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:41	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:41	Info		Insertion dans la base de donnée
+08/05/2016 22:45:41	Info		Création d'un évenement
+08/05/2016 22:45:41	Info		Création d'un évenement
+08/05/2016 22:45:42	Info		Ouverture de le fenetre de choix de particiapant pour le mode 
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Vérification du temps de défi saisi
+08/05/2016 22:45:42	Info		Création d'un participant
+08/05/2016 22:45:42	Info		Vérification du poids
+08/05/2016 22:45:42	Info		Poids correctement saisi : 250
+08/05/2016 22:45:42	Info		Vérification du nom du participant
+08/05/2016 22:45:42	Info		Nom vide
+08/05/2016 22:45:42	Info		Vérification du nom du participant
+08/05/2016 22:45:42	Info		Nom vide
+08/05/2016 22:45:42	Info		Vérification du poids
+08/05/2016 22:45:42	Info		Poids correctement saisi : 250
+08/05/2016 22:45:42	Info		Ajout du participant a la base de données
+08/05/2016 22:45:42	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:42	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:42	Info		Insertion dans la base de donnée
+08/05/2016 22:45:42	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:42	Info		Participant créé
+08/05/2016 22:45:42	Info		Vérification du nom du participant
+08/05/2016 22:45:42	Info		Nom vide
+08/05/2016 22:45:42	Info		Création d'un participant
+08/05/2016 22:45:42	Info		Vérification du poids
+08/05/2016 22:45:42	Info		Poids correctement saisi : 250
+08/05/2016 22:45:42	Info		Vérification du nom du participant
+08/05/2016 22:45:42	Info		Nom vide
+08/05/2016 22:45:42	Info		Vérification du nom du participant
+08/05/2016 22:45:42	Info		Nom vide
+08/05/2016 22:45:42	Info		Vérification du poids
+08/05/2016 22:45:42	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Ajout du participant a la base de données
+08/05/2016 22:45:43	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:43	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:43	Info		Insertion dans la base de donnée
+08/05/2016 22:45:43	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Ajout du participant a la base de données
+08/05/2016 22:45:43	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:43	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:43	Info		Insertion dans la base de donnée
+08/05/2016 22:45:43	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom mal saisi :  
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom mal saisi :  
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom mal saisi :  
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom trop long (25 caractètes max)
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Ajout du participant a la base de données
+08/05/2016 22:45:43	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:43	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:43	Info		Insertion dans la base de donnée
+08/05/2016 22:45:43	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 250
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids Non saisi
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 1
+08/05/2016 22:45:43	Info		Ajout du participant a la base de données
+08/05/2016 22:45:43	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:43	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:43	Info		Insertion dans la base de donnée
+08/05/2016 22:45:43	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 1
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids mal saisi : test
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids mal saisi : test
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids mal saisi : test
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Le poids saisi est négatif ou nul
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Le poids saisi est négatif ou nul
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Le poids saisi est négatif ou nul
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 10,1
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du nom du participant
+08/05/2016 22:45:43	Info		Nom vide
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 10,1
+08/05/2016 22:45:43	Info		Ajout du participant a la base de données
+08/05/2016 22:45:43	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:43	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:43	Info		Insertion dans la base de donnée
+08/05/2016 22:45:43	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:43	Info		Participant créé
+08/05/2016 22:45:43	Info		Vérification du poids
+08/05/2016 22:45:43	Info		Poids correctement saisi : 10,1
+08/05/2016 22:45:43	Info		Création d'un participant
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids correctement saisi : 10.1
+08/05/2016 22:45:44	Info		Vérification du nom du participant
+08/05/2016 22:45:44	Info		Nom vide
+08/05/2016 22:45:44	Info		Vérification du nom du participant
+08/05/2016 22:45:44	Info		Nom vide
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids correctement saisi : 10.1
+08/05/2016 22:45:44	Info		Ajout du participant a la base de données
+08/05/2016 22:45:44	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:44	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:44	Info		Insertion dans la base de donnée
+08/05/2016 22:45:44	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:44	Info		Participant créé
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids correctement saisi : 10.1
+08/05/2016 22:45:44	Info		Création d'un participant
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids mal saisi : 1,79769313486232E+308
+08/05/2016 22:45:44	Info		Vérification du nom du participant
+08/05/2016 22:45:44	Info		Nom vide
+08/05/2016 22:45:44	Info		Vérification du nom du participant
+08/05/2016 22:45:44	Info		Nom vide
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids mal saisi : 1,79769313486232E+308
+08/05/2016 22:45:44	Info		Participant créé
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids mal saisi : 1,79769313486232E+308
+08/05/2016 22:45:44	Info		Ouverture de le fenetre de choix de particiapant pour le mode 
+08/05/2016 22:45:44	Info		Affichage du temps du défi
+08/05/2016 22:45:44	Info		Affichage des champs d'enregistrement de P1
+08/05/2016 22:45:44	Info		Les champs d'enregistrement de P2 ont été masqués
+08/05/2016 22:45:44	Info		Les champs d'enregistrement de P3 ont été masqués
+08/05/2016 22:45:44	Info		Les champs d'enregistrement de P4 ont été masqués
+08/05/2016 22:45:44	Info		Affichage du temps du défi
+08/05/2016 22:45:44	Info		Affichage des champs d'enregistrement de P1
+08/05/2016 22:45:44	Info		Les champs d'enregistrement de P2 ont été masqués
+08/05/2016 22:45:44	Info		Les champs d'enregistrement de P3 ont été masqués
+08/05/2016 22:45:44	Info		Les champs d'enregistrement de P4 ont été masqués
+08/05/2016 22:45:44	Info		Création d'un participant
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids correctement saisi : 10.1
+08/05/2016 22:45:44	Info		Vérification du nom du participant
+08/05/2016 22:45:44	Info		Nom vide
+08/05/2016 22:45:44	Info		Vérification du nom du participant
+08/05/2016 22:45:44	Info		Nom vide
+08/05/2016 22:45:44	Info		Vérification du poids
+08/05/2016 22:45:44	Info		Poids correctement saisi : 10.1
+08/05/2016 22:45:44	Info		Ajout du participant a la base de données
+08/05/2016 22:45:44	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:44	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:44	Info		Insertion dans la base de donnée
+08/05/2016 22:45:44	Info		Fermeture de la connexion sql via SQLCo.cs
+08/05/2016 22:45:44	Info		Participant créé
+08/05/2016 22:45:44	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:44	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:44	Info		Création d'un objet de connxion SQL via la classe SQLCo.cs
+08/05/2016 22:45:44	Info		Connexion a la base de donnée via la class SQLCO.cs
+08/05/2016 22:45:44	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:47	Info		Infos Test
+14/05/2016 17:05:47	Info		Création d'un évenement
+14/05/2016 17:05:47	Info		Enregistrement de l'évenement dans la base de données
+14/05/2016 17:05:47	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:47	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:48	Info		Insertion dans la base de données : INSERT INTO `evenement`(`id`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-05-14 17:05:47', 'LieuTest');
+14/05/2016 17:05:48	Info		Création d'un évenement
+14/05/2016 17:05:48	Info		Création d'un évenement
+14/05/2016 17:05:48	Info		Création d'un évenement
+14/05/2016 17:05:48	Info		Enregistrement de l'évenement dans la base de données
+14/05/2016 17:05:48	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:48	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:48	Info		Insertion dans la base de données : INSERT INTO `evenement`(`id`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-05-14 17:05:48', 'LieuTest');
+14/05/2016 17:05:48	Info		Création d'un évenement
+14/05/2016 17:05:48	Info		Création d'un évenement
+14/05/2016 17:05:49	Info		Ouverture de le fenetre de choix de particiapant pour le mode 
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Vérification du temps de défi saisi
+14/05/2016 17:05:49	Info		Création d'un participant
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Ajout du participant a la base de données
+14/05/2016 17:05:49	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:49	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:49	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+14/05/2016 17:05:49	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:49	Info		Participant créé
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Création d'un participant
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Ajout du participant a la base de données
+14/05/2016 17:05:49	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:49	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:49	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+14/05/2016 17:05:49	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:49	Info		Participant créé
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Création d'un participant
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Ajout du participant a la base de données
+14/05/2016 17:05:49	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:49	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:49	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+14/05/2016 17:05:49	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:49	Info		Participant créé
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom vide
+14/05/2016 17:05:49	Info		Création d'un participant
+14/05/2016 17:05:49	Info		Vérification du poids
+14/05/2016 17:05:49	Info		Poids correctement saisi : 250
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom mal saisi :  
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:49	Info		Nom mal saisi :  
+14/05/2016 17:05:49	Info		Participant créé
+14/05/2016 17:05:49	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom mal saisi :  
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 250
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 250
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 250
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom trop long (25 caractètes max)
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 250
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 250
+14/05/2016 17:05:50	Info		Ajout du participant a la base de données
+14/05/2016 17:05:50	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:50	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:50	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+14/05/2016 17:05:50	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 250
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids Non saisi
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 1
+14/05/2016 17:05:50	Info		Ajout du participant a la base de données
+14/05/2016 17:05:50	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:50	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:50	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+14/05/2016 17:05:50	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 1
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids mal saisi : test
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids mal saisi : test
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids mal saisi : test
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Le poids saisi est négatif ou nul
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Le poids saisi est négatif ou nul
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Le poids saisi est négatif ou nul
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 10,1
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 10,1
+14/05/2016 17:05:50	Info		Ajout du participant a la base de données
+14/05/2016 17:05:50	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:50	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:50	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+14/05/2016 17:05:50	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 10,1
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 10.1
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 10.1
+14/05/2016 17:05:50	Info		Ajout du participant a la base de données
+14/05/2016 17:05:50	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:50	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:50	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+14/05/2016 17:05:50	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids correctement saisi : 10.1
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids mal saisi : 1,79769313486232E+308
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du nom du participant
+14/05/2016 17:05:50	Info		Nom vide
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids mal saisi : 1,79769313486232E+308
+14/05/2016 17:05:50	Info		Participant créé
+14/05/2016 17:05:50	Info		Vérification du poids
+14/05/2016 17:05:50	Info		Poids mal saisi : 1,79769313486232E+308
+14/05/2016 17:05:50	Info		Ouverture de le fenetre de choix de particiapant pour le mode 
+14/05/2016 17:05:50	Info		Affichage du temps du défi
+14/05/2016 17:05:50	Info		Affichage des champs d'enregistrement de P1
+14/05/2016 17:05:50	Info		Les champs d'enregistrement de P2 ont été masqués
+14/05/2016 17:05:50	Info		Les champs d'enregistrement de P3 ont été masqués
+14/05/2016 17:05:50	Info		Les champs d'enregistrement de P4 ont été masqués
+14/05/2016 17:05:50	Info		Affichage du temps du défi
+14/05/2016 17:05:50	Info		Affichage des champs d'enregistrement de P1
+14/05/2016 17:05:50	Info		Les champs d'enregistrement de P2 ont été masqués
+14/05/2016 17:05:50	Info		Les champs d'enregistrement de P3 ont été masqués
+14/05/2016 17:05:50	Info		Les champs d'enregistrement de P4 ont été masqués
+14/05/2016 17:05:50	Info		Création d'un participant
+14/05/2016 17:05:51	Info		Vérification du poids
+14/05/2016 17:05:51	Info		Poids correctement saisi : 10.1
+14/05/2016 17:05:51	Info		Vérification du nom du participant
+14/05/2016 17:05:51	Info		Nom vide
+14/05/2016 17:05:51	Info		Vérification du nom du participant
+14/05/2016 17:05:51	Info		Nom vide
+14/05/2016 17:05:51	Info		Vérification du poids
+14/05/2016 17:05:51	Info		Poids correctement saisi : 10.1
+14/05/2016 17:05:51	Info		Ajout du participant a la base de données
+14/05/2016 17:05:51	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:51	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:51	Info		Insertion dans la base de données : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+14/05/2016 17:05:51	Info		Fermeture de la connexion sql via SQLCo.cs
+14/05/2016 17:05:51	Info		Participant créé
+14/05/2016 17:05:51	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:51	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:51	Info		Création d'un objet de connexion SQL via la classe SQLCo.cs
+14/05/2016 17:05:51	Info		Connexion a la base de donnée via la class SQLCO.cs
+14/05/2016 17:05:51	Info		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:32	[Info]		Infos Test
+29/05/2016 09:39:32	[Info]		Création d'un évenement
+29/05/2016 09:39:32	[Info]		Enregistrement de l'évenement dans la base de données
+29/05/2016 09:39:32	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:32	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:32	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-05-29 09:39:32', 'LieuTest');
+29/05/2016 09:39:32	[Info]		Création d'un évenement
+29/05/2016 09:39:32	[Info]		Création d'un évenement
+29/05/2016 09:39:32	[Info]		Création d'un évenement
+29/05/2016 09:39:32	[Info]		Enregistrement de l'évenement dans la base de données
+29/05/2016 09:39:32	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:32	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:32	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-05-29 09:39:32', 'LieuTest');
+29/05/2016 09:39:32	[Info]		Création d'un évenement
+29/05/2016 09:39:32	[Info]		Création d'un évenement
+29/05/2016 09:39:34	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+29/05/2016 09:39:34	[Info]		Vérification du temps de défi saisi
+29/05/2016 09:39:34	[Info]		Vérification du temps de défi saisi
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:34	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+29/05/2016 09:39:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:34	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+29/05/2016 09:39:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:34	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+29/05/2016 09:39:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom mal saisi :  
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom mal saisi :  
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom mal saisi :  
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom trop long (25 caractètes max)
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:34	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+29/05/2016 09:39:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 250
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids Non saisi
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 1
+29/05/2016 09:39:34	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:34	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+29/05/2016 09:39:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:34	[Info]		Participant créé
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids correctement saisi : 1
+29/05/2016 09:39:34	[Info]		Création d'un participant
+29/05/2016 09:39:34	[Info]		Vérification du poids
+29/05/2016 09:39:34	[Info]		Poids mal saisi : test
+29/05/2016 09:39:34	[Info]		Vérification du nom du participant
+29/05/2016 09:39:34	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids mal saisi : test
+29/05/2016 09:39:35	[Info]		Participant créé
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids mal saisi : test
+29/05/2016 09:39:35	[Info]		Création d'un participant
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Le poids saisi est négatif ou nul
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Le poids saisi est négatif ou nul
+29/05/2016 09:39:35	[Info]		Participant créé
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Le poids saisi est négatif ou nul
+29/05/2016 09:39:35	[Info]		Création d'un participant
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10,1
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10,1
+29/05/2016 09:39:35	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:35	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+29/05/2016 09:39:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:35	[Info]		Participant créé
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10,1
+29/05/2016 09:39:35	[Info]		Création d'un participant
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10.1
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10.1
+29/05/2016 09:39:35	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:35	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+29/05/2016 09:39:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:35	[Info]		Participant créé
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10.1
+29/05/2016 09:39:35	[Info]		Création d'un participant
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids mal saisi : 1,79769313486232E+308
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids mal saisi : 1,79769313486232E+308
+29/05/2016 09:39:35	[Info]		Participant créé
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids mal saisi : 1,79769313486232E+308
+29/05/2016 09:39:35	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+29/05/2016 09:39:35	[Info]		Affichage du temps du défi
+29/05/2016 09:39:35	[Info]		Affichage des champs d'enregistrement de P1
+29/05/2016 09:39:35	[Info]		Les champs d'enregistrement de P2 ont été masqués
+29/05/2016 09:39:35	[Info]		Les champs d'enregistrement de P3 ont été masqués
+29/05/2016 09:39:35	[Info]		Les champs d'enregistrement de P4 ont été masqués
+29/05/2016 09:39:35	[Info]		Affichage du temps du défi
+29/05/2016 09:39:35	[Info]		Affichage des champs d'enregistrement de P1
+29/05/2016 09:39:35	[Info]		Les champs d'enregistrement de P2 ont été masqués
+29/05/2016 09:39:35	[Info]		Les champs d'enregistrement de P3 ont été masqués
+29/05/2016 09:39:35	[Info]		Les champs d'enregistrement de P4 ont été masqués
+29/05/2016 09:39:35	[Info]		Création d'un participant
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10.1
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du nom du participant
+29/05/2016 09:39:35	[Info]		Nom correctement renseigné
+29/05/2016 09:39:35	[Info]		Vérification du poids
+29/05/2016 09:39:35	[Info]		Poids correctement saisi : 10.1
+29/05/2016 09:39:35	[Info]		Ajout du participant a la base de données
+29/05/2016 09:39:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:35	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+29/05/2016 09:39:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:39:35	[Info]		Participant créé
+29/05/2016 09:39:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+29/05/2016 09:39:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+29/05/2016 09:39:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+29/05/2016 09:40:20	[Info]		Infos Test
+03/06/2016 18:37:38	[Info]		Infos Test
+03/06/2016 18:37:38	[Info]		Création d'un évenement
+03/06/2016 18:37:38	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 18:37:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:38	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 18:37:38', 'LieuTest');
+03/06/2016 18:37:38	[Info]		Création d'un évenement
+03/06/2016 18:37:38	[Info]		Création d'un évenement
+03/06/2016 18:37:38	[Info]		Création d'un évenement
+03/06/2016 18:37:38	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 18:37:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:39	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 18:37:38', 'LieuTest');
+03/06/2016 18:37:39	[Info]		Création d'un évenement
+03/06/2016 18:37:39	[Info]		Création d'un évenement
+03/06/2016 18:37:40	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 18:37:40	[Info]		Vérification du temps de défi saisi
+03/06/2016 18:37:40	[Info]		Vérification du temps de défi saisi
+03/06/2016 18:37:40	[Info]		Création d'un participant
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:40	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 18:37:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:40	[Info]		Participant créé
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Création d'un participant
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:40	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+03/06/2016 18:37:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:40	[Info]		Participant créé
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Création d'un participant
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:40	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+03/06/2016 18:37:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:40	[Info]		Participant créé
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom correctement renseigné
+03/06/2016 18:37:40	[Info]		Création d'un participant
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom mal saisi :  
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom mal saisi :  
+03/06/2016 18:37:40	[Info]		Participant créé
+03/06/2016 18:37:40	[Info]		Vérification du nom du participant
+03/06/2016 18:37:40	[Info]		Nom mal saisi :  
+03/06/2016 18:37:40	[Info]		Création d'un participant
+03/06/2016 18:37:40	[Info]		Vérification du poids
+03/06/2016 18:37:40	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:41	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:41	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:41	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 18:37:41	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 250
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids Non saisi
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 1
+03/06/2016 18:37:41	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:41	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:41	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 18:37:41	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 1
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids mal saisi : test
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids mal saisi : test
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids mal saisi : test
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 18:37:41	[Info]		Participant créé
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 18:37:41	[Info]		Création d'un participant
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 10,1
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du nom du participant
+03/06/2016 18:37:41	[Info]		Nom correctement renseigné
+03/06/2016 18:37:41	[Info]		Vérification du poids
+03/06/2016 18:37:41	[Info]		Poids correctement saisi : 10,1
+03/06/2016 18:37:41	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:41	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:41	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 18:37:41	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:42	[Info]		Participant créé
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids correctement saisi : 10,1
+03/06/2016 18:37:42	[Info]		Création d'un participant
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids correctement saisi : 10.1
+03/06/2016 18:37:42	[Info]		Vérification du nom du participant
+03/06/2016 18:37:42	[Info]		Nom correctement renseigné
+03/06/2016 18:37:42	[Info]		Vérification du nom du participant
+03/06/2016 18:37:42	[Info]		Nom correctement renseigné
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids correctement saisi : 10.1
+03/06/2016 18:37:42	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:42	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 18:37:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:42	[Info]		Participant créé
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids correctement saisi : 10.1
+03/06/2016 18:37:42	[Info]		Création d'un participant
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 18:37:42	[Info]		Vérification du nom du participant
+03/06/2016 18:37:42	[Info]		Nom correctement renseigné
+03/06/2016 18:37:42	[Info]		Vérification du nom du participant
+03/06/2016 18:37:42	[Info]		Nom correctement renseigné
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 18:37:42	[Info]		Participant créé
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 18:37:42	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 18:37:42	[Info]		Affichage du temps du défi
+03/06/2016 18:37:42	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 18:37:42	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 18:37:42	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 18:37:42	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 18:37:42	[Info]		Affichage du temps du défi
+03/06/2016 18:37:42	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 18:37:42	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 18:37:42	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 18:37:42	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 18:37:42	[Info]		Création d'un participant
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids correctement saisi : 10.1
+03/06/2016 18:37:42	[Info]		Vérification du nom du participant
+03/06/2016 18:37:42	[Info]		Nom correctement renseigné
+03/06/2016 18:37:42	[Info]		Vérification du nom du participant
+03/06/2016 18:37:42	[Info]		Nom correctement renseigné
+03/06/2016 18:37:42	[Info]		Vérification du poids
+03/06/2016 18:37:42	[Info]		Poids correctement saisi : 10.1
+03/06/2016 18:37:42	[Info]		Ajout du participant a la base de données
+03/06/2016 18:37:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:42	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 18:37:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:37:42	[Info]		Participant créé
+03/06/2016 18:37:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 18:37:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 18:37:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 18:39:33	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 18:39:33	[Info]		Vérification du temps de défi saisi
+03/06/2016 18:39:33	[Info]		Vérification du temps de défi saisi
+03/06/2016 18:53:46	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 18:53:46	[Info]		Vérification du temps de défi saisi
+03/06/2016 18:53:46	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:03:29	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:03:29	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:03:37	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:03:37	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:12:02	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:14:55	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:03	[Info]		Infos Test
+03/06/2016 19:15:03	[Info]		Création d'un évenement
+03/06/2016 19:15:03	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 19:15:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:04	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 19:15:03', 'LieuTest');
+03/06/2016 19:15:04	[Info]		Création d'un évenement
+03/06/2016 19:15:04	[Info]		Création d'un évenement
+03/06/2016 19:15:04	[Info]		Création d'un évenement
+03/06/2016 19:15:04	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 19:15:04	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:04	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:04	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 19:15:04', 'LieuTest');
+03/06/2016 19:15:04	[Info]		Création d'un évenement
+03/06/2016 19:15:04	[Info]		Création d'un évenement
+03/06/2016 19:15:05	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:15:05	[Info]		Création d'un participant
+03/06/2016 19:15:05	[Info]		Vérification du poids
+03/06/2016 19:15:05	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Vérification du poids
+03/06/2016 19:15:05	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:05	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:05	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:05	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 19:15:05	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:05	[Info]		Participant créé
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Création d'un participant
+03/06/2016 19:15:05	[Info]		Vérification du poids
+03/06/2016 19:15:05	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Vérification du poids
+03/06/2016 19:15:05	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:05	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:05	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:05	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+03/06/2016 19:15:05	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:05	[Info]		Participant créé
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Création d'un participant
+03/06/2016 19:15:05	[Info]		Vérification du poids
+03/06/2016 19:15:05	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Vérification du nom du participant
+03/06/2016 19:15:05	[Info]		Nom correctement renseigné
+03/06/2016 19:15:05	[Info]		Vérification du poids
+03/06/2016 19:15:05	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:06	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+03/06/2016 19:15:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom mal saisi :  
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom mal saisi :  
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom mal saisi :  
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:06	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 19:15:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 250
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids Non saisi
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 1
+03/06/2016 19:15:06	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:06	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 19:15:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids correctement saisi : 1
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids mal saisi : test
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids mal saisi : test
+03/06/2016 19:15:06	[Info]		Participant créé
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Poids mal saisi : test
+03/06/2016 19:15:06	[Info]		Création d'un participant
+03/06/2016 19:15:06	[Info]		Vérification du poids
+03/06/2016 19:15:06	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:06	[Info]		Vérification du nom du participant
+03/06/2016 19:15:06	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:15:07	[Info]		Participant créé
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:15:07	[Info]		Création d'un participant
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:15:07	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:07	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 19:15:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:07	[Info]		Participant créé
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:15:07	[Info]		Création d'un participant
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:15:07	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:07	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 19:15:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:07	[Info]		Participant créé
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:15:07	[Info]		Création d'un participant
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:15:07	[Info]		Participant créé
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:15:07	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:15:07	[Info]		Affichage du temps du défi
+03/06/2016 19:15:07	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 19:15:07	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 19:15:07	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 19:15:07	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 19:15:07	[Info]		Affichage du temps du défi
+03/06/2016 19:15:07	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 19:15:07	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 19:15:07	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 19:15:07	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 19:15:07	[Info]		Création d'un participant
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du nom du participant
+03/06/2016 19:15:07	[Info]		Nom correctement renseigné
+03/06/2016 19:15:07	[Info]		Vérification du poids
+03/06/2016 19:15:07	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:15:07	[Info]		Ajout du participant a la base de données
+03/06/2016 19:15:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:07	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 19:15:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:15:07	[Info]		Participant créé
+03/06/2016 19:15:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:15:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:15:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:05	[Info]		Infos Test
+03/06/2016 19:26:05	[Info]		Création d'un évenement
+03/06/2016 19:26:05	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 19:26:05	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:05	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 19:26:05', 'LieuTest');
+03/06/2016 19:26:05	[Info]		Création d'un évenement
+03/06/2016 19:26:05	[Info]		Création d'un évenement
+03/06/2016 19:26:05	[Info]		Création d'un évenement
+03/06/2016 19:26:05	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 19:26:05	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:05	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 19:26:05', 'LieuTest');
+03/06/2016 19:26:05	[Info]		Création d'un évenement
+03/06/2016 19:26:05	[Info]		Création d'un évenement
+03/06/2016 19:26:07	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:26:07	[Info]		Création d'un participant
+03/06/2016 19:26:07	[Info]		Vérification du poids
+03/06/2016 19:26:07	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Vérification du poids
+03/06/2016 19:26:07	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:07	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:07	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 19:26:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:07	[Info]		Participant créé
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Création d'un participant
+03/06/2016 19:26:07	[Info]		Vérification du poids
+03/06/2016 19:26:07	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Vérification du poids
+03/06/2016 19:26:07	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:07	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:07	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+03/06/2016 19:26:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:07	[Info]		Participant créé
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Création d'un participant
+03/06/2016 19:26:07	[Info]		Vérification du poids
+03/06/2016 19:26:07	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:07	[Info]		Vérification du poids
+03/06/2016 19:26:07	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:07	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:07	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+03/06/2016 19:26:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:07	[Info]		Participant créé
+03/06/2016 19:26:07	[Info]		Vérification du nom du participant
+03/06/2016 19:26:07	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom mal saisi :  
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom mal saisi :  
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom mal saisi :  
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:08	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:08	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:08	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 19:26:08	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 250
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids Non saisi
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 1
+03/06/2016 19:26:08	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:08	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:08	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:08	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 19:26:08	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 1
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids mal saisi : test
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids mal saisi : test
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids mal saisi : test
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:26:08	[Info]		Participant créé
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:26:08	[Info]		Création d'un participant
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:08	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du nom du participant
+03/06/2016 19:26:08	[Info]		Nom correctement renseigné
+03/06/2016 19:26:08	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:26:09	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:09	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 19:26:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:09	[Info]		Participant créé
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:26:09	[Info]		Création d'un participant
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:26:09	[Info]		Vérification du nom du participant
+03/06/2016 19:26:09	[Info]		Nom correctement renseigné
+03/06/2016 19:26:09	[Info]		Vérification du nom du participant
+03/06/2016 19:26:09	[Info]		Nom correctement renseigné
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:26:09	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:09	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 19:26:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:09	[Info]		Participant créé
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:26:09	[Info]		Création d'un participant
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:26:09	[Info]		Vérification du nom du participant
+03/06/2016 19:26:09	[Info]		Nom correctement renseigné
+03/06/2016 19:26:09	[Info]		Vérification du nom du participant
+03/06/2016 19:26:09	[Info]		Nom correctement renseigné
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:26:09	[Info]		Participant créé
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:26:09	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:26:09	[Info]		Affichage du temps du défi
+03/06/2016 19:26:09	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 19:26:09	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 19:26:09	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 19:26:09	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 19:26:09	[Info]		Affichage du temps du défi
+03/06/2016 19:26:09	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 19:26:09	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 19:26:09	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 19:26:09	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 19:26:09	[Info]		Création d'un participant
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:26:09	[Info]		Vérification du nom du participant
+03/06/2016 19:26:09	[Info]		Nom correctement renseigné
+03/06/2016 19:26:09	[Info]		Vérification du nom du participant
+03/06/2016 19:26:09	[Info]		Nom correctement renseigné
+03/06/2016 19:26:09	[Info]		Vérification du poids
+03/06/2016 19:26:09	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:26:09	[Info]		Ajout du participant a la base de données
+03/06/2016 19:26:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:09	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 19:26:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:26:09	[Info]		Participant créé
+03/06/2016 19:26:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:26:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:26:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:28:59	[Info]		Infos Test
+03/06/2016 19:28:59	[Info]		Création d'un évenement
+03/06/2016 19:28:59	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 19:28:59	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:28:59	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:00	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 19:28:59', 'LieuTest');
+03/06/2016 19:29:00	[Info]		Création d'un évenement
+03/06/2016 19:29:00	[Info]		Création d'un évenement
+03/06/2016 19:29:00	[Info]		Création d'un évenement
+03/06/2016 19:29:00	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 19:29:00	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:00	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:00	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 19:29:00', 'LieuTest');
+03/06/2016 19:29:00	[Info]		Création d'un évenement
+03/06/2016 19:29:00	[Info]		Création d'un évenement
+03/06/2016 19:29:01	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Vérification du temps de défi saisi
+03/06/2016 19:29:01	[Info]		Création d'un participant
+03/06/2016 19:29:01	[Info]		Vérification du poids
+03/06/2016 19:29:01	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:01	[Info]		Vérification du nom du participant
+03/06/2016 19:29:01	[Info]		Nom correctement renseigné
+03/06/2016 19:29:01	[Info]		Vérification du nom du participant
+03/06/2016 19:29:01	[Info]		Nom correctement renseigné
+03/06/2016 19:29:01	[Info]		Vérification du poids
+03/06/2016 19:29:01	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:01	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:01	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:01	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:01	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 19:29:01	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:01	[Info]		Participant créé
+03/06/2016 19:29:01	[Info]		Vérification du nom du participant
+03/06/2016 19:29:01	[Info]		Nom correctement renseigné
+03/06/2016 19:29:01	[Info]		Création d'un participant
+03/06/2016 19:29:01	[Info]		Vérification du poids
+03/06/2016 19:29:01	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:01	[Info]		Vérification du nom du participant
+03/06/2016 19:29:01	[Info]		Nom correctement renseigné
+03/06/2016 19:29:01	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:02	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+03/06/2016 19:29:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:02	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+03/06/2016 19:29:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom mal saisi :  
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom mal saisi :  
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom mal saisi :  
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:02	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 19:29:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 250
+03/06/2016 19:29:02	[Info]		Création d'un participant
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids Non saisi
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du nom du participant
+03/06/2016 19:29:02	[Info]		Nom correctement renseigné
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:02	[Info]		Poids correctement saisi : 1
+03/06/2016 19:29:02	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:02	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 19:29:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:02	[Info]		Participant créé
+03/06/2016 19:29:02	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 1
+03/06/2016 19:29:03	[Info]		Création d'un participant
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids mal saisi : test
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids mal saisi : test
+03/06/2016 19:29:03	[Info]		Participant créé
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids mal saisi : test
+03/06/2016 19:29:03	[Info]		Création d'un participant
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:29:03	[Info]		Participant créé
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 19:29:03	[Info]		Création d'un participant
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:29:03	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:03	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 19:29:03	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:03	[Info]		Participant créé
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10,1
+03/06/2016 19:29:03	[Info]		Création d'un participant
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:29:03	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:03	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 19:29:03	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:03	[Info]		Participant créé
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:29:03	[Info]		Création d'un participant
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:29:03	[Info]		Participant créé
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 19:29:03	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 19:29:03	[Info]		Affichage du temps du défi
+03/06/2016 19:29:03	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 19:29:03	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 19:29:03	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 19:29:03	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 19:29:03	[Info]		Affichage du temps du défi
+03/06/2016 19:29:03	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 19:29:03	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 19:29:03	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 19:29:03	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 19:29:03	[Info]		Création d'un participant
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du nom du participant
+03/06/2016 19:29:03	[Info]		Nom correctement renseigné
+03/06/2016 19:29:03	[Info]		Vérification du poids
+03/06/2016 19:29:03	[Info]		Poids correctement saisi : 10.1
+03/06/2016 19:29:03	[Info]		Ajout du participant a la base de données
+03/06/2016 19:29:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:03	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 19:29:03	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 19:29:03	[Info]		Participant créé
+03/06/2016 19:29:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 19:29:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 19:29:04	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:49:53	[Info]		Infos Test
+03/06/2016 22:49:54	[Info]		Création d'un évenement
+03/06/2016 22:49:54	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 22:49:54	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:49:54	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:02	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 22:49:54', 'LieuTest');
+03/06/2016 22:50:02	[Info]		Création d'un évenement
+03/06/2016 22:50:02	[Info]		Création d'un évenement
+03/06/2016 22:50:02	[Info]		Création d'un évenement
+03/06/2016 22:50:02	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 22:50:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:06	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 22:50:02', 'LieuTest');
+03/06/2016 22:50:06	[Info]		Création d'un évenement
+03/06/2016 22:50:06	[Info]		Création d'un évenement
+03/06/2016 22:50:06	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:06	[Info]		Création d'un participant
+03/06/2016 22:50:06	[Info]		Vérification du poids
+03/06/2016 22:50:06	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:06	[Info]		Vérification du nom du participant
+03/06/2016 22:50:06	[Info]		Nom correctement renseigné
+03/06/2016 22:50:06	[Info]		Vérification du nom du participant
+03/06/2016 22:50:06	[Info]		Nom correctement renseigné
+03/06/2016 22:50:06	[Info]		Vérification du poids
+03/06/2016 22:50:06	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:06	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:17	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 22:50:17	[Info]		Création d'un participant
+03/06/2016 22:50:17	[Info]		Vérification du poids
+03/06/2016 22:50:17	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:17	[Info]		Vérification du nom du participant
+03/06/2016 22:50:17	[Info]		Nom correctement renseigné
+03/06/2016 22:50:17	[Info]		Vérification du nom du participant
+03/06/2016 22:50:17	[Info]		Nom correctement renseigné
+03/06/2016 22:50:17	[Info]		Vérification du poids
+03/06/2016 22:50:17	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:17	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:17	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:17	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:17	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 22:50:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids Non saisi
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 1
+03/06/2016 22:50:18	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:18	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:18	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:18	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 22:50:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 1
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids mal saisi : test
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids mal saisi : test
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids mal saisi : test
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:18	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:18	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:18	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:18	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 22:50:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:18	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:18	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:18	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:18	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 22:50:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du nom du participant
+03/06/2016 22:50:18	[Info]		Nom correctement renseigné
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:18	[Info]		Participant créé
+03/06/2016 22:50:18	[Info]		Vérification du poids
+03/06/2016 22:50:18	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:18	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 22:50:18	[Info]		Affichage du temps du défi
+03/06/2016 22:50:18	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 22:50:18	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 22:50:18	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 22:50:18	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 22:50:18	[Info]		Affichage du temps du défi
+03/06/2016 22:50:18	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 22:50:18	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 22:50:18	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 22:50:18	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 22:50:18	[Info]		Création d'un participant
+03/06/2016 22:50:19	[Info]		Vérification du poids
+03/06/2016 22:50:19	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:19	[Info]		Vérification du nom du participant
+03/06/2016 22:50:19	[Info]		Nom correctement renseigné
+03/06/2016 22:50:19	[Info]		Vérification du nom du participant
+03/06/2016 22:50:19	[Info]		Nom correctement renseigné
+03/06/2016 22:50:19	[Info]		Vérification du poids
+03/06/2016 22:50:19	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:19	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:19	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 22:50:19	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:19	[Info]		Participant créé
+03/06/2016 22:50:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:19	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:26	[Info]		Infos Test
+03/06/2016 22:50:26	[Info]		Création d'un évenement
+03/06/2016 22:50:26	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 22:50:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:26	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 22:50:26', 'LieuTest');
+03/06/2016 22:50:26	[Info]		Création d'un évenement
+03/06/2016 22:50:26	[Info]		Création d'un évenement
+03/06/2016 22:50:26	[Info]		Création d'un évenement
+03/06/2016 22:50:26	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 22:50:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:26	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 22:50:26', 'LieuTest');
+03/06/2016 22:50:26	[Info]		Création d'un évenement
+03/06/2016 22:50:26	[Info]		Création d'un évenement
+03/06/2016 22:50:27	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:27	[Info]		Création d'un participant
+03/06/2016 22:50:27	[Info]		Vérification du poids
+03/06/2016 22:50:27	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:27	[Info]		Vérification du nom du participant
+03/06/2016 22:50:27	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:28	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 22:50:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:28	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+03/06/2016 22:50:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:28	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+03/06/2016 22:50:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom mal saisi :  
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom mal saisi :  
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom mal saisi :  
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:28	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 22:50:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:28	[Info]		Participant créé
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:28	[Info]		Création d'un participant
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids Non saisi
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du nom du participant
+03/06/2016 22:50:28	[Info]		Nom correctement renseigné
+03/06/2016 22:50:28	[Info]		Vérification du poids
+03/06/2016 22:50:28	[Info]		Poids correctement saisi : 1
+03/06/2016 22:50:28	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:29	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 22:50:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 1
+03/06/2016 22:50:29	[Info]		Création d'un participant
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids mal saisi : test
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids mal saisi : test
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids mal saisi : test
+03/06/2016 22:50:29	[Info]		Création d'un participant
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:29	[Info]		Création d'un participant
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:29	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:29	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 22:50:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:29	[Info]		Création d'un participant
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:29	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:29	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 22:50:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:29	[Info]		Création d'un participant
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:29	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 22:50:29	[Info]		Affichage du temps du défi
+03/06/2016 22:50:29	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 22:50:29	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 22:50:29	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 22:50:29	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 22:50:29	[Info]		Affichage du temps du défi
+03/06/2016 22:50:29	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 22:50:29	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 22:50:29	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 22:50:29	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 22:50:29	[Info]		Création d'un participant
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du nom du participant
+03/06/2016 22:50:29	[Info]		Nom correctement renseigné
+03/06/2016 22:50:29	[Info]		Vérification du poids
+03/06/2016 22:50:29	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:29	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:29	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 22:50:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:29	[Info]		Participant créé
+03/06/2016 22:50:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:46	[Info]		Infos Test
+03/06/2016 22:50:46	[Info]		Création d'un évenement
+03/06/2016 22:50:46	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 22:50:46	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:47	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 22:50:46', 'LieuTest');
+03/06/2016 22:50:47	[Info]		Création d'un évenement
+03/06/2016 22:50:47	[Info]		Création d'un évenement
+03/06/2016 22:50:47	[Info]		Création d'un évenement
+03/06/2016 22:50:47	[Info]		Enregistrement de l'évenement dans la base de données
+03/06/2016 22:50:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:47	[Info]		Insertion dans la base de données : INSERT INTO `evenement`(`idEvenement`, `nom`, `date`, `lieu`) VALUES (NULL, 'EvTest1', '2016-06-03 22:50:47', 'LieuTest');
+03/06/2016 22:50:47	[Info]		Création d'un évenement
+03/06/2016 22:50:47	[Info]		Création d'un évenement
+03/06/2016 22:50:48	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Vérification du temps de défi saisi
+03/06/2016 22:50:48	[Info]		Création d'un participant
+03/06/2016 22:50:48	[Info]		Vérification du poids
+03/06/2016 22:50:48	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:48	[Info]		Vérification du nom du participant
+03/06/2016 22:50:48	[Info]		Nom correctement renseigné
+03/06/2016 22:50:48	[Info]		Vérification du nom du participant
+03/06/2016 22:50:48	[Info]		Nom correctement renseigné
+03/06/2016 22:50:48	[Info]		Vérification du poids
+03/06/2016 22:50:48	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:48	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:48	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:48	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:48	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 22:50:48	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:48	[Info]		Participant créé
+03/06/2016 22:50:48	[Info]		Vérification du nom du participant
+03/06/2016 22:50:48	[Info]		Nom correctement renseigné
+03/06/2016 22:50:48	[Info]		Création d'un participant
+03/06/2016 22:50:48	[Info]		Vérification du poids
+03/06/2016 22:50:48	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:48	[Info]		Vérification du nom du participant
+03/06/2016 22:50:48	[Info]		Nom correctement renseigné
+03/06/2016 22:50:48	[Info]		Vérification du nom du participant
+03/06/2016 22:50:48	[Info]		Nom correctement renseigné
+03/06/2016 22:50:48	[Info]		Vérification du poids
+03/06/2016 22:50:48	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:48	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:48	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:48	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:48	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','','250','1' );
+03/06/2016 22:50:48	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:49	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','Tiburce','250','1' );
+03/06/2016 22:50:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom mal saisi :  
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom mal saisi :  
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom mal saisi :  
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom trop long (25 caractètes max)
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:49	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','250','1' );
+03/06/2016 22:50:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 250
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids Non saisi
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 1
+03/06/2016 22:50:49	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:49	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','1','1' );
+03/06/2016 22:50:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids correctement saisi : 1
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids mal saisi : test
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids mal saisi : test
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Poids mal saisi : test
+03/06/2016 22:50:49	[Info]		Création d'un participant
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du nom du participant
+03/06/2016 22:50:49	[Info]		Nom correctement renseigné
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:49	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:49	[Info]		Participant créé
+03/06/2016 22:50:49	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Le poids saisi est négatif ou nul
+03/06/2016 22:50:50	[Info]		Création d'un participant
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:50	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:50	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+03/06/2016 22:50:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:50	[Info]		Participant créé
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10,1
+03/06/2016 22:50:50	[Info]		Création d'un participant
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:50	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:50	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 22:50:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:50	[Info]		Participant créé
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:50	[Info]		Création d'un participant
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:50	[Info]		Participant créé
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids mal saisi : 1,79769313486232E+308
+03/06/2016 22:50:50	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode 
+03/06/2016 22:50:50	[Info]		Affichage du temps du défi
+03/06/2016 22:50:50	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 22:50:50	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 22:50:50	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 22:50:50	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 22:50:50	[Info]		Affichage du temps du défi
+03/06/2016 22:50:50	[Info]		Affichage des champs d'enregistrement de P1
+03/06/2016 22:50:50	[Info]		Les champs d'enregistrement de P2 ont été masqués
+03/06/2016 22:50:50	[Info]		Les champs d'enregistrement de P3 ont été masqués
+03/06/2016 22:50:50	[Info]		Les champs d'enregistrement de P4 ont été masqués
+03/06/2016 22:50:50	[Info]		Création d'un participant
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du nom du participant
+03/06/2016 22:50:50	[Info]		Nom correctement renseigné
+03/06/2016 22:50:50	[Info]		Vérification du poids
+03/06/2016 22:50:50	[Info]		Poids correctement saisi : 10.1
+03/06/2016 22:50:50	[Info]		Ajout du participant a la base de données
+03/06/2016 22:50:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:50	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10.1','1' );
+03/06/2016 22:50:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+03/06/2016 22:50:50	[Info]		Participant créé
+03/06/2016 22:50:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+03/06/2016 22:50:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+03/06/2016 22:50:50	[Info]		Fermeture de la connexion sql via SQLCo.cs

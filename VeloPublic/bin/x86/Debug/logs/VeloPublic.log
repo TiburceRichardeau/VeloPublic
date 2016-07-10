@@ -1,0 +1,1539 @@
+04/06/2016 16:25:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:25:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:25:42	[Info]		Démarrage de la fenetre de choix du mode
+04/06/2016 16:25:42	[Info]		Vérification de la résolution
+04/06/2016 16:25:43	[Info]		Mode défi choisi
+04/06/2016 16:25:43	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+04/06/2016 16:25:46	[Info]		Selection d'un evenement depuis la liste des évenements existants
+04/06/2016 16:25:46	[Info]		Remplissage de la liste des évenenemnt existant
+04/06/2016 16:25:46	[Info]		Evenement(s) trouvés dans la base de donnée
+04/06/2016 16:25:46	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+04/06/2016 16:25:49	[Info]		Choix de l'évenement : 1 depuis la liste des evenement existant : Evenement Test, In the Matrix, 01/01/0001 00:00:00
+04/06/2016 16:25:52	[Info]		Validation du choix de l'évenement
+04/06/2016 16:25:52	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode Défi
+04/06/2016 16:25:54	[Info]		Affichage du temps du défi
+04/06/2016 16:25:54	[Info]		Affichage des champs d'enregistrement de P1
+04/06/2016 16:25:54	[Info]		Les champs d'enregistrement de P2 ont été masqués
+04/06/2016 16:25:54	[Info]		Les champs d'enregistrement de P3 ont été masqués
+04/06/2016 16:25:54	[Info]		Les champs d'enregistrement de P4 ont été masqués
+04/06/2016 16:25:56	[Info]		Validation des infos cyclistes
+04/06/2016 16:25:56	[Info]		Création d'une course
+04/06/2016 16:25:56	[Info]		Enregistrement de la course dans la base de donnée
+04/06/2016 16:25:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:25:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:25:56	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,1, True, '300');
+04/06/2016 16:25:56	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:25:56	[Info]		Vérification du temps de défi saisi
+04/06/2016 16:25:56	[Info]		Le temps a été correctement saisi
+04/06/2016 16:25:56	[Info]		Création d'un participant
+04/06/2016 16:25:56	[Info]		Vérification du poids
+04/06/2016 16:25:56	[Info]		Poids Non saisi
+04/06/2016 16:25:56	[Info]		Vérification du nom du participant
+04/06/2016 16:25:56	[Info]		Nom mal saisi :  
+04/06/2016 16:25:56	[Info]		Vérification du nom du participant
+04/06/2016 16:25:56	[Info]		Nom mal saisi :  
+04/06/2016 16:25:56	[Info]		Participant créé
+04/06/2016 16:25:56	[Info]		Ouverture de le fenetre Défi en cours avec 1 Participant
+04/06/2016 16:25:56	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:25:56	[Info]		Vérification du poids
+04/06/2016 16:25:56	[Info]		Poids correctement saisi : 1
+04/06/2016 16:25:56	[Info]		Vérification du nom du participant
+04/06/2016 16:25:56	[Info]		Nom mal saisi :  
+04/06/2016 16:25:56	[Info]		Vérification du poids
+04/06/2016 16:25:56	[Info]		Poids correctement saisi : 1
+04/06/2016 16:25:56	[Info]		Vérification du nom du participant
+04/06/2016 16:25:56	[Info]		Nom mal saisi :  
+04/06/2016 16:25:56	[Erreur]	Le nom du participant 1 à été mal saisi
+04/06/2016 16:26:50	[Info]		Validation des infos cyclistes
+04/06/2016 16:26:50	[Info]		Création d'une course
+04/06/2016 16:26:50	[Info]		Enregistrement de la course dans la base de donnée
+04/06/2016 16:26:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:26:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:26:50	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,1, True, '300');
+04/06/2016 16:26:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:26:50	[Info]		Vérification du temps de défi saisi
+04/06/2016 16:26:50	[Info]		Le temps a été correctement saisi
+04/06/2016 16:26:50	[Info]		Création d'un participant
+04/06/2016 16:26:50	[Info]		Vérification du poids
+04/06/2016 16:26:50	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:50	[Info]		Vérification du nom du participant
+04/06/2016 16:26:50	[Info]		Nom correctement renseigné
+04/06/2016 16:26:50	[Info]		Vérification du nom du participant
+04/06/2016 16:26:50	[Info]		Nom correctement renseigné
+04/06/2016 16:26:50	[Info]		Vérification du poids
+04/06/2016 16:26:50	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:50	[Info]		Participant créé
+04/06/2016 16:26:50	[Info]		Ouverture de le fenetre Défi en cours avec 1 Participant
+04/06/2016 16:26:50	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:26:50	[Info]		Vérification du poids
+04/06/2016 16:26:50	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:50	[Info]		Vérification du poids
+04/06/2016 16:26:50	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:50	[Erreur]	Le poids du participant 1 a été mal saisi
+04/06/2016 16:26:59	[Info]		Validation des infos cyclistes
+04/06/2016 16:26:59	[Info]		Création d'une course
+04/06/2016 16:26:59	[Info]		Enregistrement de la course dans la base de donnée
+04/06/2016 16:26:59	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:26:59	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:26:59	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,1, True, '300');
+04/06/2016 16:26:59	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:26:59	[Info]		Vérification du temps de défi saisi
+04/06/2016 16:26:59	[Info]		Le temps a été correctement saisi
+04/06/2016 16:26:59	[Info]		Création d'un participant
+04/06/2016 16:26:59	[Info]		Vérification du poids
+04/06/2016 16:26:59	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:59	[Info]		Vérification du nom du participant
+04/06/2016 16:26:59	[Info]		Nom correctement renseigné
+04/06/2016 16:26:59	[Info]		Vérification du nom du participant
+04/06/2016 16:26:59	[Info]		Nom correctement renseigné
+04/06/2016 16:26:59	[Info]		Vérification du poids
+04/06/2016 16:26:59	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:59	[Info]		Participant créé
+04/06/2016 16:26:59	[Info]		Ouverture de le fenetre Défi en cours avec 1 Participant
+04/06/2016 16:26:59	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:26:59	[Info]		Vérification du poids
+04/06/2016 16:26:59	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:59	[Info]		Vérification du poids
+04/06/2016 16:26:59	[Info]		Poids mal saisi : 5f6s
+04/06/2016 16:26:59	[Erreur]	Le poids du participant 1 a été mal saisi
+04/06/2016 16:27:52	[Info]		Validation des infos cyclistes
+04/06/2016 16:27:52	[Info]		Création d'une course
+04/06/2016 16:27:52	[Info]		Enregistrement de la course dans la base de donnée
+04/06/2016 16:27:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:27:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:27:52	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,1, True, '300');
+04/06/2016 16:27:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:27:52	[Info]		Vérification du temps de défi saisi
+04/06/2016 16:27:52	[Info]		Le temps a été correctement saisi
+04/06/2016 16:27:52	[Info]		Création d'un participant
+04/06/2016 16:27:52	[Info]		Vérification du poids
+04/06/2016 16:27:52	[Info]		Poids correctement saisi : 5
+04/06/2016 16:27:52	[Info]		Vérification du nom du participant
+04/06/2016 16:27:52	[Info]		Nom correctement renseigné
+04/06/2016 16:27:53	[Info]		Vérification du nom du participant
+04/06/2016 16:27:53	[Info]		Nom correctement renseigné
+04/06/2016 16:27:53	[Info]		Vérification du poids
+04/06/2016 16:27:53	[Info]		Poids correctement saisi : 5
+04/06/2016 16:27:53	[Info]		Ajout du participant a la base de données
+04/06/2016 16:27:53	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:27:53	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:27:53	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'De Galle','Perceval','5','9' );
+04/06/2016 16:27:53	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:27:53	[Info]		Participant créé
+04/06/2016 16:27:53	[Info]		Ouverture de le fenetre Défi en cours avec 1 Participant
+04/06/2016 16:27:53	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:27:53	[Info]		Vérification du poids
+04/06/2016 16:27:53	[Info]		Poids correctement saisi : 5
+04/06/2016 16:27:53	[Info]		Vérification du nom du participant
+04/06/2016 16:27:53	[Info]		Nom correctement renseigné
+04/06/2016 16:27:54	[Info]		Démarrage du défi
+04/06/2016 16:27:54	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:27:54	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:27:54	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '3', '1', '3', '0,04', '0', '82', '0', '10');
+04/06/2016 16:27:54	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:27:54	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:27:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:27:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:27:56	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '12', '7.5', '1', '9', '0,08', '0,006', '82', '2', '77');
+04/06/2016 16:27:56	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:27:56	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:27:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:27:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:27:58	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '13', '10.25', '1', '16', '0,12', '0,049', '82', '4', '36');
+04/06/2016 16:27:58	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:27:58	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:00	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:00	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:00	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '17', '13.63', '1', '25', '0,16', '0,069', '82', '6', '45');
+04/06/2016 16:28:00	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:00	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:02	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '16.32', '1', '35', '0,2', '0,094', '82', '8', '42');
+04/06/2016 16:28:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:02	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:04	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:05	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '19.16', '1', '47', '0,24', '0,117', '82', '10', '154');
+04/06/2016 16:28:05	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:05	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:07	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:07	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '25', '22.08', '1', '60', '0,28', '0,203', '82', '12', '182');
+04/06/2016 16:28:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:07	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:09	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '22.04', '1', '72', '0,32', '0,304', '82', '14', '182');
+04/06/2016 16:28:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:09	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:11	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:11	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:11	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '25', '23.52', '1', '85', '0,36', '0,405', '82', '16', '182');
+04/06/2016 16:28:11	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:11	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:13	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:13	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:13	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '23.26', '1', '97', '0,4', '0,506', '82', '18', '182');
+04/06/2016 16:28:13	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:13	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:15	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:15	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:15	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '26', '24.63', '1', '111', '0,44', '0,607', '82', '20', '196');
+04/06/2016 16:28:15	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:15	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:17	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:17	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:17	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '25', '24.82', '1', '124', '0,48', '0,716', '82', '22', '120');
+04/06/2016 16:28:17	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:17	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:19	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '23.91', '1', '136', '0,52', '0,783', '82', '24', '143');
+04/06/2016 16:28:19	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:19	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:21	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:21	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:21	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '28', '25.96', '1', '151', '0,56', '0,862', '82', '26', '224');
+04/06/2016 16:28:21	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:21	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:23	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:23	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:23	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '26.48', '1', '166', '0,6', '0,986', '82', '28', '144');
+04/06/2016 16:28:23	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:23	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:25	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:25	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:25	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '25', '25.74', '1', '179', '0,64', '1,066', '82', '30', '156');
+04/06/2016 16:28:25	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:25	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:27	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:27	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:27	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '24.37', '1', '191', '0,68', '1,153', '82', '32', '182');
+04/06/2016 16:28:27	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:27	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:29	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '24.19', '1', '204', '0,72', '1,254', '82', '34', '132');
+04/06/2016 16:28:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:29	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:31	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:31	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:31	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '23.1', '1', '216', '0,76', '1,327', '82', '36', '143');
+04/06/2016 16:28:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:31	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:33	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:33	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:33	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '26', '24.55', '1', '230', '0,8', '1,406', '82', '38', '165');
+04/06/2016 16:28:33	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:33	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:35	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '23.28', '1', '242', '0,84', '1,498', '82', '40', '165');
+04/06/2016 16:28:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:28:35	[Info]		Affichage des infos sur le participant 1
+04/06/2016 16:28:36	[Info]		L'utilisateur demande l'arret du défi avant la fin
+04/06/2016 16:28:38	[Info]		Affichage du rapport
+04/06/2016 16:28:38	[Info]		Ouverture de la fenetre Rapport Défi
+04/06/2016 16:28:38	[Info]		Récupération de la durée du défi
+04/06/2016 16:28:38	[Info]		Affichage du rapport du participant 1
+04/06/2016 16:28:38	[Info]		Enrgistrement du rapport en PDF
+04/06/2016 16:28:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:28:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:28:38	[Info]		Mise a jour de la base de donnée
+04/06/2016 16:28:38	[Info]		Fermeture de la connexion sql via SQLCo.cs
+04/06/2016 16:29:27	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+04/06/2016 16:29:27	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+04/06/2016 16:29:27	[Info]		Démarrage de la fenetre de choix du mode
+04/06/2016 16:29:27	[Info]		Vérification de la résolution
+06/06/2016 13:43:37	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:43:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:43:40	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 13:43:40	[Info]		Vérification de la résolution
+06/06/2016 13:43:43	[Info]		Mode défi choisi
+06/06/2016 13:43:43	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+06/06/2016 13:43:45	[Info]		Selection d'un evenement depuis la liste des évenements existants
+06/06/2016 13:43:45	[Info]		Remplissage de la liste des évenenemnt existant
+06/06/2016 13:43:45	[Info]		Evenement(s) trouvés dans la base de donnée
+06/06/2016 13:43:45	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+06/06/2016 13:43:46	[Info]		Choix de l'évenement : 1 depuis la liste des evenement existant : fqsdjm, fsqml, 01/01/0001 00:00:00
+06/06/2016 13:43:46	[Info]		Validation du choix de l'évenement
+06/06/2016 13:43:46	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode Défi
+06/06/2016 13:43:48	[Info]		Affichage du temps du défi
+06/06/2016 13:43:48	[Info]		Affichage des champs d'enregistrement de P1
+06/06/2016 13:43:48	[Info]		Les champs d'enregistrement de P2 ont été masqués
+06/06/2016 13:43:48	[Info]		Les champs d'enregistrement de P3 ont été masqués
+06/06/2016 13:43:48	[Info]		Les champs d'enregistrement de P4 ont été masqués
+06/06/2016 13:44:15	[Info]		Affichage du temps du défi
+06/06/2016 13:44:15	[Info]		Affichage des champs d'enregistrement de P1
+06/06/2016 13:44:15	[Info]		Affichage des champs d'enregistrement de P2
+06/06/2016 13:44:15	[Info]		Affichage des champs d'enregistrement de P3
+06/06/2016 13:44:15	[Info]		Les champs d'enregistrement de P4 ont été masqués
+06/06/2016 13:44:57	[Info]		Validation des infos cyclistes
+06/06/2016 13:44:58	[Info]		Création d'une course
+06/06/2016 13:44:58	[Info]		Enregistrement de la course dans la base de donnée
+06/06/2016 13:44:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:44:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:44:58	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,1, True, '300');
+06/06/2016 13:44:58	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:44:58	[Info]		Vérification du temps de défi saisi
+06/06/2016 13:44:58	[Info]		Le temps a été correctement saisi
+06/06/2016 13:44:58	[Info]		Création d'un participant
+06/06/2016 13:44:58	[Info]		Vérification du poids
+06/06/2016 13:44:58	[Info]		Poids Non saisi
+06/06/2016 13:44:58	[Info]		Vérification du nom du participant
+06/06/2016 13:44:58	[Info]		Nom correctement renseigné
+06/06/2016 13:44:58	[Info]		Vérification du nom du participant
+06/06/2016 13:44:58	[Info]		Nom correctement renseigné
+06/06/2016 13:44:58	[Info]		Vérification du poids
+06/06/2016 13:44:58	[Info]		Poids correctement saisi : 1
+06/06/2016 13:44:58	[Info]		Ajout du participant a la base de données
+06/06/2016 13:44:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:44:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:44:58	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'fdsqf','fdsq','1','6' );
+06/06/2016 13:44:58	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:44:58	[Info]		Participant créé
+06/06/2016 13:44:58	[Info]		Création d'un participant
+06/06/2016 13:44:58	[Info]		Vérification du poids
+06/06/2016 13:44:58	[Info]		Poids Non saisi
+06/06/2016 13:44:58	[Info]		Vérification du nom du participant
+06/06/2016 13:44:58	[Info]		Nom correctement renseigné
+06/06/2016 13:44:58	[Info]		Vérification du nom du participant
+06/06/2016 13:44:58	[Info]		Nom correctement renseigné
+06/06/2016 13:44:58	[Info]		Vérification du poids
+06/06/2016 13:44:58	[Info]		Poids correctement saisi : 1
+06/06/2016 13:44:58	[Info]		Ajout du participant a la base de données
+06/06/2016 13:44:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:44:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:44:58	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'fsdq','','1','6' );
+06/06/2016 13:44:59	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:44:59	[Info]		Participant créé
+06/06/2016 13:44:59	[Info]		Création d'un participant
+06/06/2016 13:44:59	[Info]		Vérification du poids
+06/06/2016 13:44:59	[Info]		Poids Non saisi
+06/06/2016 13:44:59	[Info]		Vérification du nom du participant
+06/06/2016 13:44:59	[Info]		Nom correctement renseigné
+06/06/2016 13:44:59	[Info]		Vérification du nom du participant
+06/06/2016 13:44:59	[Info]		Nom correctement renseigné
+06/06/2016 13:44:59	[Info]		Vérification du poids
+06/06/2016 13:44:59	[Info]		Poids correctement saisi : 1
+06/06/2016 13:44:59	[Info]		Ajout du participant a la base de données
+06/06/2016 13:44:59	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:44:59	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:44:59	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','r','1','6' );
+06/06/2016 13:44:59	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:44:59	[Info]		Participant créé
+06/06/2016 13:45:04	[Info]		Ouverture de le fenetre Défi en cours avec 3 Participants
+06/06/2016 13:45:04	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:05	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:05	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:05	[Info]		Vérification du poids
+06/06/2016 13:45:05	[Info]		Poids correctement saisi : 1
+06/06/2016 13:45:05	[Info]		Vérification du poids
+06/06/2016 13:45:05	[Info]		Poids correctement saisi : 1
+06/06/2016 13:45:05	[Info]		Vérification du poids
+06/06/2016 13:45:05	[Info]		Poids correctement saisi : 1
+06/06/2016 13:45:05	[Info]		Vérification du nom du participant
+06/06/2016 13:45:05	[Info]		Nom correctement renseigné
+06/06/2016 13:45:05	[Info]		Vérification du nom du participant
+06/06/2016 13:45:05	[Info]		Nom correctement renseigné
+06/06/2016 13:45:05	[Info]		Vérification du nom du participant
+06/06/2016 13:45:05	[Info]		Nom correctement renseigné
+06/06/2016 13:45:26	[Info]		Démarrage du défi
+06/06/2016 13:45:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:26	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '2', '1', '2', '1', '0,01', '0', '88', '0', '8');
+06/06/2016 13:45:26	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:26	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '2', '1', '2', '1', '0,01', '0', '89', '0', '1');
+06/06/2016 13:45:26	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:27	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:27	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:27	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '3', '1.5', '2', '1', '0,01', '0', '90', '0', '0');
+06/06/2016 13:45:27	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:27	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:27	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:27	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:29	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '3.5', '2', '4', '0,02', '0,004', '88', '2', '15');
+06/06/2016 13:45:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:29	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '5', '3', '2', '3', '0,02', '0,001', '89', '2', '0');
+06/06/2016 13:45:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:29	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:29	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:29	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '3.75', '2', '4', '0,02', '0', '90', '2', '0');
+06/06/2016 13:45:29	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:29	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:29	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:29	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:31	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:31	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:31	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '7', '5.25', '2', '7', '0,03', '0,012', '88', '4', '0');
+06/06/2016 13:45:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:31	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:31	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:31	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '9', '6', '2', '8', '0,03', '0,001', '89', '4', '15');
+06/06/2016 13:45:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:31	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:31	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:31	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '7', '5.38', '2', '7', '0,03', '0', '90', '4', '0');
+06/06/2016 13:45:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:32	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:32	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:32	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:34	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '11', '8.13', '2', '13', '0,04', '0,012', '88', '6', '55');
+06/06/2016 13:45:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:34	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '13', '9.5', '2', '15', '0,04', '0,009', '89', '6', '80');
+06/06/2016 13:45:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:34	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '9', '7.19', '2', '12', '0,04', '0', '90', '6', '4');
+06/06/2016 13:45:34	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:34	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:34	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:34	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:36	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:36	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:36	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '13', '10.57', '2', '20', '0,05', '0,043', '88', '8', '56');
+06/06/2016 13:45:36	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:36	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:36	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:36	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '14', '11.75', '2', '22', '0,05', '0,053', '89', '8', '36');
+06/06/2016 13:45:36	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:36	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:36	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:36	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '13', '10.1', '2', '19', '0,05', '0,002', '90', '8', '88');
+06/06/2016 13:45:36	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:36	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:36	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:36	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:39	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '12.79', '2', '28', '0,06', '0,074', '88', '10', '48');
+06/06/2016 13:45:39	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:39	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:39	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:39	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '13.88', '2', '30', '0,06', '0,073', '89', '10', '72');
+06/06/2016 13:45:39	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:39	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:39	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:39	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '13.05', '2', '27', '0,06', '0,051', '90', '10', '63');
+06/06/2016 13:45:39	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:39	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:39	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:39	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:41	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:41	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '14.4', '2', '36', '0,07', '0,101', '88', '12', '48');
+06/06/2016 13:45:41	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:41	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:41	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '16.44', '2', '40', '0,07', '0,113', '89', '12', '45');
+06/06/2016 13:45:41	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:41	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:41	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:41	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '15.53', '2', '37', '0,07', '0,086', '90', '12', '49');
+06/06/2016 13:45:41	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:41	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:41	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:41	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:43	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:43	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:43	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '17.2', '2', '47', '0,08', '0,128', '88', '14', '80');
+06/06/2016 13:45:43	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:44	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:44	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:44	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.22', '2', '48', '0,08', '0,138', '89', '14', '50');
+06/06/2016 13:45:44	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:44	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:44	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:44	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '18.77', '2', '49', '0,08', '0,113', '90', '14', '187');
+06/06/2016 13:45:44	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:44	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:44	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:44	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:46	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:46	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:46	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '17.6', '2', '57', '0,09', '0,172', '88', '16', '56');
+06/06/2016 13:45:46	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:46	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:46	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:46	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '17.61', '2', '58', '0,09', '0,166', '89', '16', '45');
+06/06/2016 13:45:46	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:46	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:46	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:46	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.89', '2', '59', '0,09', '0,217', '90', '16', '88');
+06/06/2016 13:45:46	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:46	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:46	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:46	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:48	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:48	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:48	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '18.8', '2', '68', '0,1', '0,203', '88', '18', '72');
+06/06/2016 13:45:48	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:48	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:49	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.81', '2', '66', '0,1', '0,191', '89', '18', '66');
+06/06/2016 13:45:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:49	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '20.95', '2', '71', '0,1', '0,266', '90', '18', '187');
+06/06/2016 13:45:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:49	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:49	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:49	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:51	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:51	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:51	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.9', '2', '78', '0,11', '0,243', '88', '20', '48');
+06/06/2016 13:45:51	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:51	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:51	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:51	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '17.91', '2', '76', '0,11', '0,228', '89', '20', '50');
+06/06/2016 13:45:51	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:51	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:51	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:51	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '20.98', '2', '82', '0,11', '0,37', '90', '20', '150');
+06/06/2016 13:45:51	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:51	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:51	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:51	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:53	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:53	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:53	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.45', '2', '88', '0,12', '0,27', '88', '22', '42');
+06/06/2016 13:45:53	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:53	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:53	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:53	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.96', '2', '84', '0,12', '0,256', '89', '22', '50');
+06/06/2016 13:45:53	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:53	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:53	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:53	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.99', '2', '92', '0,12', '0,453', '90', '22', '56');
+06/06/2016 13:45:54	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:54	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:54	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:54	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:56	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.73', '2', '98', '0,13', '0,293', '88', '24', '48');
+06/06/2016 13:45:56	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:56	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '17', '16.98', '2', '93', '0,13', '0,284', '89', '24', '63');
+06/06/2016 13:45:56	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:56	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '21', '2', '104', '0,13', '0,484', '90', '24', '150');
+06/06/2016 13:45:56	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:56	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:56	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:56	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:45:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:58	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '17.37', '2', '106', '0,14', '0,32', '88', '26', '88');
+06/06/2016 13:45:58	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:58	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '17.49', '2', '103', '0,14', '0,319', '89', '26', '54');
+06/06/2016 13:45:58	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:45:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:45:58	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '20.5', '2', '115', '0,14', '0,567', '90', '26', '45');
+06/06/2016 13:45:58	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:45:58	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:45:58	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:45:58	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:00	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:00	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:00	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '18.69', '2', '117', '0,15', '0,369', '88', '28', '88');
+06/06/2016 13:46:01	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:01	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:01	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:01	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '16.25', '2', '111', '0,15', '0,349', '89', '28', '50');
+06/06/2016 13:46:01	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:01	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:01	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:01	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '20.75', '2', '126', '0,15', '0,592', '90', '28', '168');
+06/06/2016 13:46:01	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:01	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:01	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:01	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:03	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.35', '2', '127', '0,16', '0,418', '88', '30', '45');
+06/06/2016 13:46:03	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:03	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '17.13', '2', '121', '0,16', '0,377', '89', '30', '45');
+06/06/2016 13:46:03	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:03	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:03	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.88', '2', '136', '0,16', '0,685', '90', '30', '45');
+06/06/2016 13:46:03	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:03	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:03	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:03	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:05	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:05	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.18', '2', '138', '0,17', '0,443', '88', '32', '72');
+06/06/2016 13:46:05	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:05	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:05	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:05	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.57', '2', '129', '0,17', '0,402', '89', '32', '56');
+06/06/2016 13:46:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:06	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '20.44', '2', '147', '0,17', '0,71', '90', '32', '182');
+06/06/2016 13:46:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:06	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:06	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:06	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:08	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:08	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:08	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.59', '2', '148', '0,18', '0,483', '88', '34', '63');
+06/06/2016 13:46:08	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:08	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:08	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:08	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '17.79', '2', '139', '0,18', '0,433', '89', '34', '50');
+06/06/2016 13:46:08	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:08	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:08	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:08	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.72', '2', '157', '0,18', '0,811', '90', '34', '45');
+06/06/2016 13:46:08	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:08	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:08	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:08	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:10	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:10	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:10	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '19.8', '2', '159', '0,19', '0,518', '88', '36', '150');
+06/06/2016 13:46:10	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:10	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:10	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:10	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.9', '2', '147', '0,19', '0,461', '89', '36', '66');
+06/06/2016 13:46:10	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:10	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:11	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:11	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '20.36', '2', '168', '0,19', '0,836', '90', '36', '156');
+06/06/2016 13:46:11	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:11	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:11	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:11	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:13	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:13	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:13	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.9', '2', '170', '0,2', '0,601', '88', '38', '48');
+06/06/2016 13:46:13	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:13	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:13	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:13	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '18.45', '2', '158', '0,2', '0,498', '89', '38', '66');
+06/06/2016 13:46:13	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:13	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:13	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:13	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '19.18', '2', '178', '0,2', '0,923', '90', '38', '60');
+06/06/2016 13:46:13	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:13	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:13	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:13	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:15	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:15	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:15	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.95', '2', '180', '0,21', '0,628', '88', '40', '56');
+06/06/2016 13:46:15	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:15	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:15	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:15	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.23', '2', '168', '0,21', '0,535', '89', '40', '45');
+06/06/2016 13:46:15	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:15	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:15	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:15	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '20.59', '2', '190', '0,21', '0,956', '90', '40', '238');
+06/06/2016 13:46:15	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:15	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:15	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:15	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:17	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:17	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:18	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '20.48', '2', '192', '0,22', '0,659', '88', '42', '221');
+06/06/2016 13:46:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:18	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:18	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:18	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '17.12', '2', '176', '0,22', '0,56', '89', '42', '72');
+06/06/2016 13:46:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:18	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:18	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:18	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.8', '2', '200', '0,22', '1,088', '90', '42', '88');
+06/06/2016 13:46:18	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:18	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:18	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:18	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:20	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:20	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:20	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '20.24', '2', '203', '0,23', '0,782', '88', '44', '72');
+06/06/2016 13:46:20	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:20	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:20	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:20	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '17.56', '2', '186', '0,23', '0,6', '89', '44', '56');
+06/06/2016 13:46:20	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:20	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:20	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:20	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '20.4', '2', '211', '0,23', '1,137', '90', '44', '168');
+06/06/2016 13:46:20	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:20	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:20	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:20	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:22	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:22	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:22	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '17', '18.62', '2', '212', '0,24', '0,822', '88', '46', '88');
+06/06/2016 13:46:22	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:23	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:23	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:23	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.78', '2', '194', '0,24', '0,631', '89', '46', '56');
+06/06/2016 13:46:23	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:23	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:23	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:23	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.7', '2', '221', '0,24', '1,23', '90', '46', '45');
+06/06/2016 13:46:23	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:23	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:23	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:23	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:25	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:25	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:25	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.31', '2', '222', '0,25', '0,871', '88', '48', '48');
+06/06/2016 13:46:25	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:25	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:25	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:25	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '17.89', '2', '204', '0,25', '0,662', '89', '48', '50');
+06/06/2016 13:46:25	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:25	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:25	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:25	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '21.35', '2', '233', '0,25', '1,255', '90', '48', '208');
+06/06/2016 13:46:25	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:25	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:25	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:25	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:27	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:27	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:27	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.66', '2', '232', '0,26', '0,898', '88', '50', '36');
+06/06/2016 13:46:27	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:27	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:27	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:27	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.95', '2', '212', '0,26', '0,69', '89', '50', '80');
+06/06/2016 13:46:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:28	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '20.68', '2', '244', '0,26', '1,371', '90', '50', '80');
+06/06/2016 13:46:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:28	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:28	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:28	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:30	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:30	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:30	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.33', '2', '242', '0,27', '0,918', '88', '52', '36');
+06/06/2016 13:46:30	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:30	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:30	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:30	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '18.48', '2', '223', '0,27', '0,734', '89', '52', '88');
+06/06/2016 13:46:30	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:30	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:30	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:30	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '21.34', '2', '256', '0,27', '1,415', '90', '52', '140');
+06/06/2016 13:46:30	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:30	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:30	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:30	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:32	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:32	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:32	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '19.67', '2', '253', '0,28', '0,938', '88', '54', '180');
+06/06/2016 13:46:32	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:32	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:32	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:32	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.24', '2', '233', '0,28', '0,783', '89', '54', '63');
+06/06/2016 13:46:32	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:32	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:32	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:32	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '20.67', '2', '267', '0,28', '1,493', '90', '54', '56');
+06/06/2016 13:46:32	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:32	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:32	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:32	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:34	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:34	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:34	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.84', '2', '263', '0,29', '1,038', '88', '56', '88');
+06/06/2016 13:46:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:35	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '16.62', '2', '241', '0,29', '0,818', '89', '56', '60');
+06/06/2016 13:46:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:35	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '22.34', '2', '280', '0,29', '1,524', '90', '56', '221');
+06/06/2016 13:46:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:35	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:35	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:35	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:37	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:37	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:37	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.92', '2', '273', '0,3', '1,087', '88', '58', '54');
+06/06/2016 13:46:37	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:37	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:37	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:37	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.31', '2', '249', '0,3', '0,851', '89', '58', '54');
+06/06/2016 13:46:37	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:37	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:37	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:37	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '22.67', '2', '292', '0,3', '1,647', '90', '58', '168');
+06/06/2016 13:46:37	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:37	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:37	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:37	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:39	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:39	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:39	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '17', '17.96', '2', '282', '0,31', '1,117', '88', '60', '45');
+06/06/2016 13:46:39	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:39	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:39	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:40	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '17.16', '2', '259', '0,31', '0,881', '89', '60', '56');
+06/06/2016 13:46:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:40	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '21.34', '2', '303', '0,31', '1,74', '90', '60', '50');
+06/06/2016 13:46:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:40	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:40	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:40	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:42	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '17.98', '2', '292', '0,32', '1,142', '88', '62', '48');
+06/06/2016 13:46:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:42	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '17', '17.08', '2', '268', '0,32', '0,912', '89', '62', '63');
+06/06/2016 13:46:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:42	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '21.17', '2', '314', '0,32', '1,768', '90', '62', '182');
+06/06/2016 13:46:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:42	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:42	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:42	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:44	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:44	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:44	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '19.49', '2', '303', '0,33', '1,169', '88', '64', '160');
+06/06/2016 13:46:44	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:44	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:44	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:45	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.04', '2', '278', '0,33', '0,947', '89', '64', '40');
+06/06/2016 13:46:45	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:45	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:45	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:45	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '20.09', '2', '324', '0,33', '1,869', '90', '64', '72');
+06/06/2016 13:46:45	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:45	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:45	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:45	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:47	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.75', '2', '314', '0,34', '1,258', '88', '66', '54');
+06/06/2016 13:46:47	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:47	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '17.02', '2', '286', '0,34', '0,969', '89', '66', '88');
+06/06/2016 13:46:47	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:47	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '21.55', '2', '336', '0,34', '1,909', '90', '66', '221');
+06/06/2016 13:46:47	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:47	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:47	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:47	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:49	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.88', '2', '324', '0,35', '1,288', '88', '68', '72');
+06/06/2016 13:46:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:49	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '18.01', '2', '296', '0,35', '1,018', '89', '68', '80');
+06/06/2016 13:46:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:49	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '20.78', '2', '347', '0,35', '2,032', '90', '68', '80');
+06/06/2016 13:46:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:49	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:49	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:49	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:51	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:51	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:52	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.44', '2', '335', '0,36', '1,328', '88', '70', '72');
+06/06/2016 13:46:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:52	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.01', '2', '306', '0,36', '1,062', '89', '70', '49');
+06/06/2016 13:46:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:52	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '21.89', '2', '359', '0,36', '2,076', '90', '70', '150');
+06/06/2016 13:46:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:52	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:52	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:52	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:54	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:54	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:54	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.22', '2', '345', '0,37', '1,368', '88', '72', '49');
+06/06/2016 13:46:54	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:54	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:54	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:54	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '16.51', '2', '314', '0,37', '1,089', '89', '72', '50');
+06/06/2016 13:46:54	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:54	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:54	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:54	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '21.95', '2', '371', '0,37', '2,159', '90', '72', '156');
+06/06/2016 13:46:54	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:54	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:54	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:54	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:56	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '18.61', '2', '355', '0,38', '1,395', '88', '74', '42');
+06/06/2016 13:46:57	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:57	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:57	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:57	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '16', '16.26', '2', '322', '0,38', '1,117', '89', '74', '54');
+06/06/2016 13:46:57	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:57	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:57	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:57	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '20.98', '2', '382', '0,38', '2,246', '90', '74', '72');
+06/06/2016 13:46:57	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:46:57	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:46:57	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:46:57	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:46:57	[Info]		L'utilisateur demande l'arret du défi avant la fin
+06/06/2016 13:46:58	[Info]		Affichage du rapport
+06/06/2016 13:46:58	[Info]		Ouverture de la fenetre Rapport Défi
+06/06/2016 13:46:58	[Info]		Récupération de la durée du défi
+06/06/2016 13:46:58	[Info]		Affichage du rapport du participant 1
+06/06/2016 13:46:58	[Info]		Affichage du rapport du participant 2
+06/06/2016 13:46:58	[Info]		Affichage du rapport du participant 3
+06/06/2016 13:46:58	[Info]		Enrgistrement du rapport en PDF
+06/06/2016 13:46:58	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:46:58	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:46:58	[Info]		Mise a jour de la base de donnée
+06/06/2016 13:46:59	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:47:01	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:47:01	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:47:01	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 13:47:01	[Info]		Vérification de la résolution
+06/06/2016 13:58:15	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:58:15	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:58:17	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 13:58:17	[Info]		Vérification de la résolution
+06/06/2016 13:58:28	[Info]		Mode défi choisi
+06/06/2016 13:58:28	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+06/06/2016 13:58:30	[Info]		Selection d'un evenement depuis la liste des évenements existants
+06/06/2016 13:58:30	[Info]		Remplissage de la liste des évenenemnt existant
+06/06/2016 13:58:30	[Info]		Evenement(s) trouvés dans la base de donnée
+06/06/2016 13:58:30	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+06/06/2016 13:58:31	[Info]		Choix de l'évenement : 1 depuis la liste des evenement existant : fqsdjm, fsqml, 01/01/0001 00:00:00
+06/06/2016 13:58:31	[Info]		Validation du choix de l'évenement
+06/06/2016 13:58:31	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode Défi
+06/06/2016 13:58:34	[Info]		Affichage du temps du défi
+06/06/2016 13:58:34	[Info]		Affichage des champs d'enregistrement de P1
+06/06/2016 13:58:34	[Info]		Affichage des champs d'enregistrement de P2
+06/06/2016 13:58:34	[Info]		Affichage des champs d'enregistrement de P3
+06/06/2016 13:58:34	[Info]		Les champs d'enregistrement de P4 ont été masqués
+06/06/2016 13:58:49	[Info]		Validation des infos cyclistes
+06/06/2016 13:58:49	[Info]		Création d'une course
+06/06/2016 13:58:49	[Info]		Enregistrement de la course dans la base de donnée
+06/06/2016 13:58:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:58:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:58:49	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,1, True, '300');
+06/06/2016 13:58:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:58:49	[Info]		Vérification du temps de défi saisi
+06/06/2016 13:58:49	[Info]		Le temps a été correctement saisi
+06/06/2016 13:58:49	[Info]		Création d'un participant
+06/06/2016 13:58:49	[Info]		Vérification du poids
+06/06/2016 13:58:49	[Info]		Poids Non saisi
+06/06/2016 13:58:49	[Info]		Vérification du nom du participant
+06/06/2016 13:58:49	[Info]		Nom correctement renseigné
+06/06/2016 13:58:49	[Info]		Vérification du nom du participant
+06/06/2016 13:58:49	[Info]		Nom correctement renseigné
+06/06/2016 13:58:49	[Info]		Vérification du poids
+06/06/2016 13:58:49	[Info]		Poids correctement saisi : 1
+06/06/2016 13:58:49	[Info]		Ajout du participant a la base de données
+06/06/2016 13:58:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:58:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:58:49	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'fsdq','','1','7' );
+06/06/2016 13:58:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:58:49	[Info]		Participant créé
+06/06/2016 13:58:49	[Info]		Création d'un participant
+06/06/2016 13:58:49	[Info]		Vérification du poids
+06/06/2016 13:58:49	[Info]		Poids Non saisi
+06/06/2016 13:58:49	[Info]		Vérification du nom du participant
+06/06/2016 13:58:49	[Info]		Nom correctement renseigné
+06/06/2016 13:58:49	[Info]		Vérification du nom du participant
+06/06/2016 13:58:49	[Info]		Nom correctement renseigné
+06/06/2016 13:58:49	[Info]		Vérification du poids
+06/06/2016 13:58:49	[Info]		Poids correctement saisi : 1
+06/06/2016 13:58:49	[Info]		Ajout du participant a la base de données
+06/06/2016 13:58:49	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:58:49	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:58:49	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','fsdq','1','7' );
+06/06/2016 13:58:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:58:50	[Info]		Participant créé
+06/06/2016 13:58:50	[Info]		Création d'un participant
+06/06/2016 13:58:50	[Info]		Vérification du poids
+06/06/2016 13:58:50	[Info]		Poids Non saisi
+06/06/2016 13:58:50	[Info]		Vérification du nom du participant
+06/06/2016 13:58:50	[Info]		Nom correctement renseigné
+06/06/2016 13:58:50	[Info]		Vérification du nom du participant
+06/06/2016 13:58:50	[Info]		Nom correctement renseigné
+06/06/2016 13:58:50	[Info]		Vérification du poids
+06/06/2016 13:58:50	[Info]		Poids correctement saisi : 1
+06/06/2016 13:58:50	[Info]		Ajout du participant a la base de données
+06/06/2016 13:58:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:58:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:58:50	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'','fqsd','1','7' );
+06/06/2016 13:58:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:58:50	[Info]		Participant créé
+06/06/2016 13:58:55	[Info]		Ouverture de le fenetre Défi en cours avec 3 Participants
+06/06/2016 13:58:55	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:58:55	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:58:55	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:58:55	[Info]		Vérification du poids
+06/06/2016 13:58:55	[Info]		Poids correctement saisi : 1
+06/06/2016 13:58:55	[Info]		Vérification du poids
+06/06/2016 13:58:55	[Info]		Poids correctement saisi : 1
+06/06/2016 13:58:55	[Info]		Vérification du poids
+06/06/2016 13:58:55	[Info]		Poids correctement saisi : 1
+06/06/2016 13:58:55	[Info]		Vérification du nom du participant
+06/06/2016 13:58:55	[Info]		Nom correctement renseigné
+06/06/2016 13:58:55	[Info]		Vérification du nom du participant
+06/06/2016 13:58:56	[Info]		Nom correctement renseigné
+06/06/2016 13:58:56	[Info]		Vérification du nom du participant
+06/06/2016 13:58:56	[Info]		Nom correctement renseigné
+06/06/2016 13:59:06	[Info]		Démarrage du défi
+06/06/2016 13:59:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:06	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '3', '1', '3', '0,01', '0', '91', '0', '0');
+06/06/2016 13:59:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:06	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '3', '1.5', '1', '1', '0,01', '0', '92', '0', '3');
+06/06/2016 13:59:06	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:07	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '2', '1', '2', '1', '0,01', '0', '93', '0', '2');
+06/06/2016 13:59:07	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:07	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:07	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:07	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:09	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '11', '7', '1', '9', '0,02', '0', '91', '2', '90');
+06/06/2016 13:59:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:09	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '4', '2.75', '1', '3', '0,02', '0,002', '92', '2', '0');
+06/06/2016 13:59:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:09	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:09	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:09	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '4', '2.5', '2', '3', '0,02', '0,001', '93', '2', '1');
+06/06/2016 13:59:09	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:09	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:09	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:09	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:11	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:11	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:11	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '13', '10', '1', '16', '0,03', '0,05', '91', '4', '56');
+06/06/2016 13:59:11	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:11	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:11	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:11	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '12', '7.38', '1', '9', '0,03', '0,002', '92', '4', '50');
+06/06/2016 13:59:11	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:11	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:11	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:12	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '4.25', '2', '6', '0,03', '0,002', '93', '4', '1');
+06/06/2016 13:59:12	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:12	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:12	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:12	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:14	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:14	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:14	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '14', '12', '1', '23', '0,04', '0,081', '91', '6', '30');
+06/06/2016 13:59:14	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:14	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:14	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:14	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '13.69', '1', '20', '0,04', '0,03', '92', '6', '77');
+06/06/2016 13:59:14	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:14	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:14	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:14	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '8', '6.13', '2', '10', '0,04', '0,003', '93', '6', '8');
+06/06/2016 13:59:14	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:14	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:14	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:14	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:16	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:16	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:16	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '15.5', '1', '33', '0,05', '0,098', '91', '8', '70');
+06/06/2016 13:59:16	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:16	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:16	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:16	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '17.85', '1', '32', '0,05', '0,073', '92', '8', '143');
+06/06/2016 13:59:16	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:16	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:16	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:16	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '9', '7.57', '2', '15', '0,05', '0,007', '93', '8', '0');
+06/06/2016 13:59:16	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:17	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:17	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:17	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:19	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '19.25', '1', '45', '0,06', '0,137', '91', '10', '180');
+06/06/2016 13:59:19	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:19	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '20.93', '1', '45', '0,06', '0,152', '92', '10', '132');
+06/06/2016 13:59:19	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:19	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:19	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:19	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '12', '9.79', '2', '21', '0,06', '0,007', '93', '10', '63');
+06/06/2016 13:59:19	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:19	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:19	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:19	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:21	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:21	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:21	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '25', '22.13', '1', '58', '0,07', '0,237', '91', '12', '182');
+06/06/2016 13:59:21	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:21	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:21	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:21	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '33', '26.97', '1', '63', '0,06', '0,225', '92', '12', '285');
+06/06/2016 13:59:21	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:21	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:21	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:21	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '13', '11.4', '2', '28', '0,07', '0,042', '93', '12', '48');
+06/06/2016 13:59:21	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:21	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:21	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:21	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:23	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:23	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:23	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '22.07', '1', '70', '0,08', '0,338', '91', '14', '210');
+06/06/2016 13:59:23	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:23	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:23	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:23	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '38', '32.49', '1', '84', '0,06', '0,383', '92', '14', '414');
+06/06/2016 13:59:24	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:24	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:24	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:24	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '13.2', '2', '36', '0,08', '0,069', '93', '14', '72');
+06/06/2016 13:59:24	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:24	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:24	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:24	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:26	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '23.04', '1', '83', '0,09', '0,455', '91', '16', '169');
+06/06/2016 13:59:26	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:26	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '36', '34.25', '1', '104', '0,06', '0,613', '92', '16', '396');
+06/06/2016 13:59:26	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:26	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:26	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:26	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '17', '15.1', '2', '45', '0,09', '0,109', '93', '16', '48');
+06/06/2016 13:59:26	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:26	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:26	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:26	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:28	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '25.02', '1', '98', '0,1', '0,549', '91', '18', '154');
+06/06/2016 13:59:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:28	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '32', '33.13', '1', '121', '0,06', '0,833', '92', '18', '414');
+06/06/2016 13:59:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:28	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:28	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:28	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '18.05', '2', '56', '0,1', '0,136', '93', '18', '170');
+06/06/2016 13:59:28	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:28	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:28	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:28	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:30	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:30	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:30	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '23.51', '1', '110', '0,11', '0,635', '91', '20', '170');
+06/06/2016 13:59:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:31	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:31	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:31	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '39', '36.07', '1', '142', '0,06', '1,063', '92', '20', '361');
+06/06/2016 13:59:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:31	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:31	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:31	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.03', '2', '67', '0,11', '0,23', '93', '20', '30');
+06/06/2016 13:59:31	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:31	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:31	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:31	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:33	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:33	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:33	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '26', '24.76', '1', '124', '0,12', '0,729', '91', '22', '165');
+06/06/2016 13:59:33	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:33	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:33	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:33	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '35', '35.54', '1', '161', '0,06', '1,264', '92', '22', '414');
+06/06/2016 13:59:33	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:33	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:33	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:33	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '20.52', '2', '79', '0,12', '0,247', '93', '22', '154');
+06/06/2016 13:59:33	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:33	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:33	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:33	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:35	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '22.88', '1', '135', '0,13', '0,821', '91', '24', '170');
+06/06/2016 13:59:35	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:35	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:35	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:35	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '31.27', '1', '176', '0,07', '1,494', '92', '24', '204');
+06/06/2016 13:59:36	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:36	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:36	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:36	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.76', '2', '89', '0,13', '0,333', '93', '24', '77');
+06/06/2016 13:59:36	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:36	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:36	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:36	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:38	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '23.44', '1', '148', '0,14', '0,915', '91', '26', '182');
+06/06/2016 13:59:38	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:38	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '36', '33.64', '1', '196', '0,07', '1,607', '92', '26', '380');
+06/06/2016 13:59:38	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:38	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:38	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:38	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.88', '2', '100', '0,14', '0,376', '93', '26', '30');
+06/06/2016 13:59:38	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:38	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:38	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:38	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:40	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '25.22', '1', '163', '0,15', '1,016', '91', '28', '182');
+06/06/2016 13:59:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:40	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '35', '34.32', '1', '215', '0,07', '1,818', '92', '28', '288');
+06/06/2016 13:59:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:40	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '21.94', '2', '113', '0,15', '0,393', '93', '28', '170');
+06/06/2016 13:59:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:40	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:40	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:40	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:43	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '24', '24.61', '1', '176', '0,16', '1,117', '91', '30', '154');
+06/06/2016 13:59:43	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:43	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:43	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:43	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '28', '31.16', '1', '230', '0,08', '1,978', '92', '30', '192');
+06/06/2016 13:59:43	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:43	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:43	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:43	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '22.47', '2', '125', '0,16', '0,487', '93', '30', '169');
+06/06/2016 13:59:43	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:43	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:43	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:43	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:45	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:45	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:45	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '25.81', '1', '191', '0,17', '1,203', '91', '32', '154');
+06/06/2016 13:59:45	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:45	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:45	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:45	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '32', '31.58', '1', '247', '0,08', '2,085', '92', '32', '306');
+06/06/2016 13:59:45	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:45	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:45	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:45	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '21.74', '2', '136', '0,17', '0,581', '93', '32', '196');
+06/06/2016 13:59:45	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:45	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:45	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:45	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:47	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '26', '25.91', '1', '205', '0,18', '1,289', '91', '34', '130');
+06/06/2016 13:59:47	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:47	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '34', '32.79', '1', '265', '0,08', '2,255', '92', '34', '288');
+06/06/2016 13:59:47	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:47	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:47	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:48	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '20.37', '2', '146', '0,18', '0,69', '93', '34', '54');
+06/06/2016 13:59:48	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:48	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:48	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:48	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:50	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '23.46', '1', '216', '0,19', '1,361', '91', '36', '170');
+06/06/2016 13:59:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:50	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '30', '31.4', '1', '281', '0,09', '2,415', '92', '36', '182');
+06/06/2016 13:59:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:50	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:50	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:50	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '21.19', '2', '158', '0,19', '0,72', '93', '36', '165');
+06/06/2016 13:59:50	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:50	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:50	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:50	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:52	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '25.23', '1', '231', '0,2', '1,455', '91', '38', '238');
+06/06/2016 13:59:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:52	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '34', '32.7', '1', '299', '0,09', '2,516', '92', '38', '396');
+06/06/2016 13:59:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:52	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '20.1', '2', '168', '0,2', '0,812', '93', '38', '55');
+06/06/2016 13:59:52	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:52	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:52	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:52	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:54	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:54	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:54	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '22', '23.62', '1', '243', '0,21', '1,587', '91', '40', '238');
+06/06/2016 13:59:55	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:55	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:55	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:55	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '31', '31.85', '1', '316', '0,09', '2,736', '92', '40', '306');
+06/06/2016 13:59:55	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:55	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:55	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:55	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '21', '20.55', '2', '179', '0,21', '0,843', '93', '40', '130');
+06/06/2016 13:59:55	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:55	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:55	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:55	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:57	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:57	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:57	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '27', '25.31', '1', '258', '0,22', '1,719', '91', '42', '192');
+06/06/2016 13:59:57	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:57	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:57	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:57	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '37', '34.43', '1', '336', '0,09', '2,906', '92', '42', '437');
+06/06/2016 13:59:57	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:57	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:57	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:57	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '19', '19.78', '2', '189', '0,22', '0,915', '93', '42', '63');
+06/06/2016 13:59:57	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 13:59:57	[Info]		Affichage des infos sur le participant 1
+06/06/2016 13:59:57	[Info]		Affichage des infos sur le participant 2
+06/06/2016 13:59:57	[Info]		Affichage des infos sur le participant 3
+06/06/2016 13:59:59	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 13:59:59	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 13:59:59	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '26', '25.66', '1', '272', '0,23', '1,826', '91', '44', '156');
+06/06/2016 14:00:00	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:00	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:00:00	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:00:00	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '36', '35.22', '1', '356', '0,09', '3,149', '92', '44', '378');
+06/06/2016 14:00:00	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:00	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:00:00	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:00:00	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '20', '19.89', '2', '200', '0,23', '0,95', '93', '44', '42');
+06/06/2016 14:00:00	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:00	[Info]		Affichage des infos sur le participant 1
+06/06/2016 14:00:00	[Info]		Affichage des infos sur le participant 2
+06/06/2016 14:00:00	[Info]		Affichage des infos sur le participant 3
+06/06/2016 14:00:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:00:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:00:02	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '25', '25.33', '1', '285', '0,24', '1,913', '91', '46', '130');
+06/06/2016 14:00:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:00:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:00:02	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '34', '34.61', '1', '374', '0,09', '3,359', '92', '46', '288');
+06/06/2016 14:00:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:02	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:00:02	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:00:02	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '23', '21.45', '2', '212', '0,24', '0,973', '93', '46', '210');
+06/06/2016 14:00:02	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:02	[Info]		Affichage des infos sur le participant 1
+06/06/2016 14:00:02	[Info]		Affichage des infos sur le participant 2
+06/06/2016 14:00:02	[Info]		Affichage des infos sur le participant 3
+06/06/2016 14:00:03	[Info]		L'utilisateur demande l'arret du défi avant la fin
+06/06/2016 14:00:04	[Info]		Affichage du rapport
+06/06/2016 14:00:04	[Info]		Ouverture de la fenetre Rapport Défi
+06/06/2016 14:00:04	[Info]		Récupération de la durée du défi
+06/06/2016 14:00:04	[Info]		Affichage du rapport du participant 1
+06/06/2016 14:00:04	[Info]		Affichage du rapport du participant 2
+06/06/2016 14:00:04	[Info]		Affichage du rapport du participant 3
+06/06/2016 14:00:04	[Info]		Enrgistrement du rapport en PDF
+06/06/2016 14:00:04	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:00:04	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:00:04	[Info]		Mise a jour de la base de donnée
+06/06/2016 14:00:04	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 14:00:10	[Info]		Demande impression du rapport par l'utilisateur
+06/06/2016 14:02:03	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:02:04	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:02:04	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 14:02:04	[Info]		Vérification de la résolution
+06/06/2016 14:59:52	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 14:59:52	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 14:59:54	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 14:59:54	[Info]		Vérification de la résolution
+06/06/2016 14:59:57	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+06/06/2016 14:59:58	[Info]		Selection d'un evenement depuis la liste des évenements existants
+06/06/2016 14:59:59	[Info]		Remplissage de la liste des évenenemnt existant
+06/06/2016 14:59:59	[Info]		Evenement(s) trouvés dans la base de donnée
+06/06/2016 14:59:59	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+06/06/2016 15:00:08	[Info]		Choix de l'évenement : 1 depuis la liste des evenement existant : fqsdjm, fsqml, 01/01/0001 00:00:00
+06/06/2016 15:00:08	[Info]		Validation du choix de l'évenement
+06/06/2016 15:02:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:02:07	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:02:07	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 15:02:07	[Info]		Vérification de la résolution
+06/06/2016 15:02:12	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+06/06/2016 15:02:15	[Info]		Selection d'un evenement depuis la liste des évenements existants
+06/06/2016 15:02:15	[Info]		Remplissage de la liste des évenenemnt existant
+06/06/2016 15:02:15	[Info]		Evenement(s) trouvés dans la base de donnée
+06/06/2016 15:02:15	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+06/06/2016 15:02:17	[Info]		Choix de l'évenement : 1 depuis la liste des evenement existant : fqsdjm, fsqml, 01/01/0001 00:00:00
+06/06/2016 15:02:17	[Info]		Validation du choix de l'évenement
+06/06/2016 15:05:56	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:05:56	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:05:57	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 15:05:57	[Info]		Vérification de la résolution
+06/06/2016 15:06:03	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+06/06/2016 15:06:04	[Info]		Selection d'un evenement depuis la liste des évenements existants
+06/06/2016 15:06:04	[Info]		Remplissage de la liste des évenenemnt existant
+06/06/2016 15:06:04	[Info]		Evenement(s) trouvés dans la base de donnée
+06/06/2016 15:06:04	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+06/06/2016 15:06:08	[Info]		Choix de l'évenement : 1 depuis la liste des evenement existant : fqsdjm, fsqml, 01/01/0001 00:00:00
+06/06/2016 15:06:08	[Info]		Validation du choix de l'évenement
+06/06/2016 15:15:13	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:13	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:14	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 15:15:14	[Info]		Vérification de la résolution
+06/06/2016 15:15:15	[Info]		Mode défi choisi
+06/06/2016 15:15:15	[Info]		Ouverture de la fenetre de création//Selection d'évenement
+06/06/2016 15:15:20	[Info]		Selection d'un evenement depuis la liste des évenements existants
+06/06/2016 15:15:20	[Info]		Remplissage de la liste des évenenemnt existant
+06/06/2016 15:15:20	[Info]		Evenement(s) trouvés dans la base de donnée
+06/06/2016 15:15:20	[Info]		Création d'un évenement pour l'ajout dans  la datagrid des evenements existants
+06/06/2016 15:15:21	[Info]		Choix de l'évenement : 2 depuis la liste des evenement existant : Le tour de France, Nantes, 01/01/0001 00:00:00
+06/06/2016 15:15:23	[Info]		Validation du choix de l'évenement
+06/06/2016 15:15:23	[Info]		Ouverture de le fenetre de choix de particiapant pour le mode Défi
+06/06/2016 15:15:24	[Info]		Affichage du temps du défi
+06/06/2016 15:15:24	[Info]		Affichage des champs d'enregistrement de P1
+06/06/2016 15:15:24	[Info]		Les champs d'enregistrement de P2 ont été masqués
+06/06/2016 15:15:24	[Info]		Les champs d'enregistrement de P3 ont été masqués
+06/06/2016 15:15:24	[Info]		Les champs d'enregistrement de P4 ont été masqués
+06/06/2016 15:15:33	[Info]		Validation des infos cyclistes
+06/06/2016 15:15:33	[Info]		Création d'une course
+06/06/2016 15:15:33	[Info]		Enregistrement de la course dans la base de donnée
+06/06/2016 15:15:33	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:33	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:33	[Info]		Insertion dans la base de données : INSERT INTO `course`(`idCourse`, `evenement_id`, `estUnDefi`, `duree`) VALUES (NULL,2, True, '300');
+06/06/2016 15:15:33	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:33	[Info]		Vérification du temps de défi saisi
+06/06/2016 15:15:33	[Info]		Le temps a été correctement saisi
+06/06/2016 15:15:33	[Info]		Création d'un participant
+06/06/2016 15:15:33	[Info]		Vérification du poids
+06/06/2016 15:15:33	[Info]		Poids Non saisi
+06/06/2016 15:15:33	[Info]		Vérification du nom du participant
+06/06/2016 15:15:33	[Info]		Nom correctement renseigné
+06/06/2016 15:15:33	[Info]		Vérification du nom du participant
+06/06/2016 15:15:33	[Info]		Nom correctement renseigné
+06/06/2016 15:15:33	[Info]		Vérification du poids
+06/06/2016 15:15:33	[Info]		Poids correctement saisi : 1
+06/06/2016 15:15:33	[Info]		Ajout du participant a la base de données
+06/06/2016 15:15:33	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:33	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:33	[Info]		Insertion dans la base de données : INSERT INTO `cycliste`(`idCycliste`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'fsqdfqs','','1','1' );
+06/06/2016 15:15:33	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:33	[Info]		Participant créé
+06/06/2016 15:15:38	[Info]		Ouverture de le fenetre Défi en cours avec 1 Participant
+06/06/2016 15:15:38	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:38	[Info]		Vérification du poids
+06/06/2016 15:15:38	[Info]		Poids correctement saisi : 1
+06/06/2016 15:15:38	[Info]		Vérification du nom du participant
+06/06/2016 15:15:38	[Info]		Nom correctement renseigné
+06/06/2016 15:15:40	[Info]		Démarrage du défi
+06/06/2016 15:15:40	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:40	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:40	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '2', '1', '1', '1', '0,01', '0', '1', '0', '1');
+06/06/2016 15:15:40	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '2', '1', '1', '1', '0,01', '0', '1', '0', '1');
+06/06/2016 15:15:40	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:40	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:40	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:42	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:42	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:42	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '3.5', '1', '4', '0,02', '0,001', '1', '2', '3');
+06/06/2016 15:15:42	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '6', '3.5', '1', '4', '0,02', '0,001', '1', '2', '3');
+06/06/2016 15:15:42	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:42	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:42	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:44	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:44	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:44	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '7', '5.25', '1', '7', '0,03', '0,003', '1', '4', '0');
+06/06/2016 15:15:44	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '7', '5.25', '1', '7', '0,03', '0,003', '1', '4', '0');
+06/06/2016 15:15:44	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:44	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:44	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:46	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:46	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:46	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '8', '6.63', '1', '11', '0,04', '0,003', '1', '6', '0');
+06/06/2016 15:15:46	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '8', '6.63', '1', '11', '0,04', '0,003', '1', '6', '0');
+06/06/2016 15:15:46	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:46	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:46	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:48	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:48	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:48	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '11', '8.82', '1', '17', '0,05', '0,003', '1', '8', '64');
+06/06/2016 15:15:48	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '11', '8.82', '1', '17', '0,05', '0,003', '1', '8', '64');
+06/06/2016 15:15:48	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:49	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:49	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:51	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:51	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:51	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '11.91', '1', '25', '0,06', '0,039', '1', '10', '63');
+06/06/2016 15:15:51	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '15', '11.91', '1', '25', '0,06', '0,039', '1', '10', '63');
+06/06/2016 15:15:51	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:51	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:51	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:53	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:53	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:53	[Info]		Insertion dans la base de données : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '14.96', '1', '35', '0,07', '0,074', '1', '12', '72');
+06/06/2016 15:15:53	[Erreur]	Erreur lors de l'insertion dans la base de données, requete : INSERT INTO `releve`(`idReleve`, `Vitesse`, `VitesseMoyenne`, `NiveauDifficulte`, `Distance`, `Calories`, `ProductionEnergie`, `cycliste_id`, `Temps`, `puissanceInstantanee`) VALUES (NULL, '18', '14.96', '1', '35', '0,07', '0,074', '1', '12', '72');
+06/06/2016 15:15:53	[Erreur]	erreur sql : Data truncated for column 'calories' at row 1
+06/06/2016 15:15:53	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:15:53	[Info]		Affichage des infos sur le participant 1
+06/06/2016 15:15:54	[Info]		L'utilisateur demande l'arret du défi avant la fin
+06/06/2016 15:15:55	[Info]		Affichage du rapport
+06/06/2016 15:15:55	[Info]		Ouverture de la fenetre Rapport Défi
+06/06/2016 15:15:55	[Info]		Récupération de la durée du défi
+06/06/2016 15:15:55	[Info]		Affichage du rapport du participant 1
+06/06/2016 15:15:55	[Info]		Enrgistrement du rapport en PDF
+06/06/2016 15:15:55	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:15:55	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:15:55	[Info]		Mise a jour de la base de donnée
+06/06/2016 15:15:55	[Info]		Fermeture de la connexion sql via SQLCo.cs
+06/06/2016 15:16:06	[Info]		Création d'un objet de connexion SQL via la classe SQLCo.cs
+06/06/2016 15:16:06	[Info]		Connexion a la base de donnée via la class SQLCO.cs
+06/06/2016 15:16:06	[Info]		Démarrage de la fenetre de choix du mode
+06/06/2016 15:16:06	[Info]		Vérification de la résolution

@@ -1,0 +1,44 @@
+25/03/2016 10:44:04	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' )
+25/03/2016 13:51:21	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' )
+25/03/2016 13:57:44	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' )
+25/03/2016 14:16:28	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' )
+25/03/2016 14:44:24	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' )
+25/03/2016 15:18:16	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' )
+25/03/2016 16:31:29	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' )
+25/03/2016 16:35:16	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' )
+25/03/2016 17:11:51	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' )
+25/03/2016 17:17:32	Erreur	Unable to connect to any of the specified MySQL hosts.
+25/03/2016 17:17:41	Erreur	Unable to connect to any of the specified MySQL hosts.
+25/03/2016 17:17:46	Erreur	Unable to connect to any of the specified MySQL hosts.
+25/03/2016 17:17:53	Erreur	Unable to connect to any of the specified MySQL hosts.
+25/03/2016 17:18:25	Erreur	Unable to connect to any of the specified MySQL hosts.
+25/03/2016 22:09:04	Erreur	Unable to connect to any of the specified MySQL hosts.
+01/04/2016 11:12:07	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' );
+01/04/2016 13:51:50	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','','1' );
+19/04/2016 09:58:58	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:25:47	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:29:47	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:33:16	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:33:30	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:33:40	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:33:50	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:34:05	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+19/04/2016 10:34:16	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+25/04/2016 15:51:24	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+25/04/2016 15:54:41	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Dautry','Antoine','10,1','1' );
+26/04/2016 16:10:07	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+26/04/2016 16:15:23	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+26/04/2016 16:40:50	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+26/04/2016 16:45:26	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+26/04/2016 16:58:32	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+27/04/2016 14:48:53	Erreur	Erreur Test
+27/04/2016 14:50:10	Erreur	Erreur Test
+27/04/2016 14:51:07	Erreur	Erreur Test
+27/04/2016 19:00:04	Erreur	Erreur Test
+27/04/2016 23:07:22	Erreur	Erreur Test
+28/04/2016 21:52:07	Erreur	Erreur Test
+29/04/2016 14:40:26	Erreur	Erreur Test
+29/04/2016 14:40:29	Erreur	Erreur lors de l'insertion dans la base de donnée, requete : INSERT INTO `cycliste`(`id`, `nom`, `prenom`, `poids`, `course_id`) VALUES (NULL,'Richardeau','Tiburce','10,1','1' );
+30/04/2016 01:20:02	Erreur	Erreur Test
+01/05/2016 10:21:07	Erreur	Erreur Test
+01/05/2016 17:18:31	Erreur	Erreur Test

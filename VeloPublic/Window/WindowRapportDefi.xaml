@@ -1,0 +1,147 @@
+﻿<Controls:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VeloPublic"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="VeloPublic.WindowRapportDefi"
+        mc:Ignorable="d"
+        Title="Energie Cycle - Mode Défi - Rapport" Height="700" Width="1200"
+        ResizeMode="NoResize" Closing="MetroWindow_Closing"
+        xmlns:cefSharp="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf">
+    <Grid x:Name="rapport">
+        <Image x:Name="ImageModeTest" Source="../Images/Coco.png" Width="200" Height="200" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Grid x:Name="gridGraph" Margin="0,283,0,160">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            
+            <cefSharp:ChromiumWebBrowser x:Name="CefGraphVitesse" Grid.Column="0" Grid.Row="0" Margin="0,0,0,0"/>
+            <Image x:Name="ImageReloadVitesse" Source="../Images/reload.png" Height="30" Width="30" Grid.Column="0" Grid.Row="1" MouseEnter="ImageReloadVitesse_MouseEnter" MouseLeave="ImageReloadVitesse_MouseLeave" MouseLeftButtonUp="ImageReloadVitesse_MouseLeftButtonUp">
+                <Image.ToolTip>
+                    <Label Content="Recharger le graphique"/>
+                </Image.ToolTip>
+            </Image>
+            <cefSharp:ChromiumWebBrowser x:Name="CefGraphEnergie" Grid.Row="0" Grid.Column="1"  Margin="0,0,0,0"/>
+            <Image x:Name="ImageReloadEnergie" Source="../Images/reload.png" Height="30" Width="30" Grid.Column="1" Grid.Row="1" MouseEnter="ImageReloadEnergie_MouseEnter" MouseLeave="ImageReloadEnergie_MouseLeave" MouseLeftButtonUp="ImageReloadEnergie_MouseLeftButtonUp">
+                <Image.ToolTip>
+                    <Label Content="Recharger le graphique"/>
+                </Image.ToolTip>
+            </Image>
+        </Grid>
+        
+        <Grid>
+            <Grid x:Name="gridParticipant" Height="283" VerticalAlignment="Top">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition x:Name="ColCalorie"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Image x:Name="ImageHome" Source="../Images/home.png" Grid.Column="6" Grid.Row="0" Height="40" Width="40" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonUp="Home_MouseLeftButtonUp" MouseEnter="ImageHome_MouseEnter" MouseLeave="ImageHome_MouseLeave">
+                    <Image.ToolTip>
+                        <Label Content="Accueil"/>
+                    </Image.ToolTip>
+                </Image>
+                <Image x:Name="ImageRapport" Source="../Images/Rapport.png" Height="50" Width="50" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="3" Grid.Row="0"/>
+                <Label x:Name="labelMode" Content="Défi" Grid.Column="3" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="16" Margin="50,0,0,0"/>
+
+                <!-- Images -->
+                <Image x:Name="ImageParticipant1" Source="../Images/Participant.png" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1">
+                    <Image.ToolTip>
+                        <Label Content="Nom du cycliste"/>
+                    </Image.ToolTip>
+                </Image>
+
+                <Image x:Name="ImageDistance1" Source="../Images/distance.png" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="2" Grid.Row="1">
+                    <Image.ToolTip>
+                        <Label Content="Distance Parcourue"/>
+                    </Image.ToolTip>
+                </Image>
+
+                <Image x:Name="ImageVitesse1" Source="../Images/speed.png" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="3" Grid.Row="1">
+                    <Image.ToolTip>
+                        <Label Content="Vitesse Moyenne"/>
+                    </Image.ToolTip>
+                </Image>
+
+                <Image x:Name="ImageCalorie1" Source="../Images/calories.png" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" Grid.Column="4" Grid.Row="1">
+                    <Image.ToolTip>
+                        <Label Content="Calories burlées"/>
+                    </Image.ToolTip>
+                </Image>
+
+                <Image x:Name="ImageEnergie1" Source="../Images/energy.png" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5" Grid.Row="1">
+                    <Image.ToolTip>
+                        <Label Content="Energie Produite"/>
+                    </Image.ToolTip>
+                </Image>
+                <!-- Participant 1-->
+                <Label x:Name="labelRapportNomP1" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16"  Grid.Column="1" Grid.Row="2" HorizontalContentAlignment="Center" Foreground="#D60002"/>
+                <Label x:Name="labelRapportDistanceP1" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="2" Grid.Row="2" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportVitesseMoyenneP1" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="3" Grid.Row="2" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportCalorieP1" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="4" Grid.Row="2" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportProductionP1" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Foreground="#353F40" Grid.Column="5" Grid.Row="2" HorizontalContentAlignment="Center"/>
+
+                <!-- Participant 2 -->
+                <Label x:Name="labelRapportNomP2" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="1" Grid.Row="3" HorizontalContentAlignment="Center" Foreground="#F16358"/>
+                <Label x:Name="labelRapportDistanceP2" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="2" Grid.Row="3" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportVitesseMoyenneP2" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="3" Grid.Row="3" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportCalorieP2" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="4" Grid.Row="3" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportProductionP2" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Foreground="#353F40" Grid.Column="5" Grid.Row="3" HorizontalContentAlignment="Center"/>
+
+                <!-- Participant 3 -->
+                <Label x:Name="labelRapportNomP3" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="1" Grid.Row="4" HorizontalContentAlignment="Center" Foreground="#F3C333"/>
+                <Label x:Name="labelRapportDistanceP3" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="2" Grid.Row="4" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportVitesseMoyenneP3" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="3" Grid.Row="4" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportCalorieP3" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="4" Grid.Row="4" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportProductionP3" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Foreground="#353F40" Grid.Column="5" Grid.Row="4" HorizontalContentAlignment="Center"/>
+
+                <!-- Participant 4 -->
+                <Label x:Name="labelRapportNomP4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="1" Grid.Row="5" HorizontalContentAlignment="Center" Foreground="#DB963B"/>
+                <Label x:Name="labelRapportDistanceP4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="2" Grid.Row="5" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportVitesseMoyenneP4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16"  Grid.Column="3" Grid.Row="5" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportCalorieP4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Grid.Column="4" Grid.Row="5" HorizontalContentAlignment="Center"/>
+                <Label x:Name="labelRapportProductionP4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden" FontSize="16" Foreground="#353F40" Grid.Column="5" Grid.Row="5" HorizontalContentAlignment="Center"/>
+            </Grid>
+        </Grid>
+
+        <Grid x:Name="gridBasDeRapport" Height="160" VerticalAlignment="Bottom">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="ImageDate" Source="../Images/calendar.png" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="50" Width="50" Grid.Column="0" Grid.Row="0"/>
+            <Label x:Name="labelDate" Content="" HorizontalAlignment="Center" Width="auto" Height="53" VerticalAlignment="Top" FontSize="16" Grid.Column="0" Grid.Row="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Top"/>
+            <Image x:Name="ImageChrono" Source="../Images/Chrono.png" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="50" Width="50" Grid.Column="1" Grid.Row="0"/>
+            <Label x:Name="labelTempsDefi" Content="" HorizontalAlignment="Center" VerticalAlignment="Top" Width="auto" FontSize="16" Height="54" Grid.Column="1" Grid.Row="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Top"/>
+
+            <Image x:Name="imagePrint" Height="59" VerticalAlignment="Center" Width="77" HorizontalAlignment="Center" Source="../Images/printer-.png" MouseLeftButtonUp="imagePrint_MouseLeftButtonUp" MouseLeave="imagePrint_MouseLeave" MouseEnter="imagePrint_MouseEnter" Grid.Column="2" Grid.Row="0" Grid.RowSpan="2">
+                <Image.ToolTip>
+                    <Label Content="Imprimer"/>
+                </Image.ToolTip>
+            </Image>
+        </Grid>
+    </Grid>
+</Controls:MetroWindow>

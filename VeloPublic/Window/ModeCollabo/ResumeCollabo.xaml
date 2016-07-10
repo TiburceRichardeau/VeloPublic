@@ -1,0 +1,104 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VeloPublic"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="VeloPublic.ResumeCollabo"
+        mc:Ignorable="d"
+        Title="ResumeCollabo" Height="1050" Width="1680"
+        ResizeMode="NoResize"
+        xmlns:cefSharp="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf">
+
+    <Grid x:Name="ResuColla">
+        <Viewbox Margin="562,0,554,0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" Width="78">
+            <TextBlock x:Name="TextBlockMode" TextAlignment="Center" Height="15" Width="56"><Run/></TextBlock>
+        </Viewbox>
+
+        <materialDesign:ColorZone Height="242" Margin="0,780,0,0" VerticalAlignment="Top" Background="#FF8C00">
+            <Grid>
+                <Label x:Name="labelNomP5" HorizontalAlignment="Left" Margin="91,31,0,-69" Visibility="Visible" Width="297" FontSize="21.333" FontWeight="Bold"/>
+                <Label x:Name="labelNomP6" HorizontalAlignment="Left" Margin="524,31,0,-69" Visibility="Visible" Width="295" FontSize="21.333" FontWeight="Bold"/>
+                <Label x:Name="labelNomP7" HorizontalAlignment="Left" Margin="949,31,0,-69" Visibility="Visible" Width="289" FontSize="21.333" FontWeight="Bold"/>
+                <Label x:Name="labelNomP8" HorizontalAlignment="Left" Margin="1350,31,0,-69" Width="294" FontSize="21.333" FontWeight="Bold"/>
+            </Grid>
+        </materialDesign:ColorZone>
+
+        <Grid>
+
+            <Label x:Name="labelCouleur1"  HorizontalAlignment="Left" Margin="52,814,0,0" VerticalAlignment="Top" Height="28" Width="28" Background="#FF00E0E0" RenderTransformOrigin="-3.696,0.5"/>
+            <Label x:Name="labelCalorie1" Content="Calories Brûlées :" HorizontalAlignment="Left" Margin="52,970,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxCalorie1" HorizontalAlignment="Left" Height="23" Margin="286,981,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"/>
+            <Label x:Name="labelEnergieProduite1" Content="Energie produite :" HorizontalAlignment="Left" Margin="71,848,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="32" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxEnergieProduite1" HorizontalAlignment="Left" Height="34" Margin="104,900,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+            <Label x:Name="labelDistanceParcourue1" Content="Distance Parcourue :" HorizontalAlignment="Left" Margin="52,939,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxDistanceParcourue1" HorizontalAlignment="Left" Height="23" Margin="286,950,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.486,1.731"/>
+            <Rectangle HorizontalAlignment="Left" Height="165" Margin="52,847,0,0" Stroke="Black" VerticalAlignment="Top" Width="316">
+                <Rectangle.Fill>
+                    <ImageBrush/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label x:Name="labelCouleur2"  HorizontalAlignment="Left" Margin="482,814,0,0" VerticalAlignment="Top" Height="28" Width="26" Background="Red" RenderTransformOrigin="3.19,0.857"/>
+            <Label x:Name="labelCalorie2" Content="Calories Brûlées :" HorizontalAlignment="Left" Margin="482,970,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.686,0.212" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxCalorie2" HorizontalAlignment="Left" Height="23" Margin="716,981,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"/>
+            <Label x:Name="labelDistanceParcourue2" Content="Distance Parcourue :" HorizontalAlignment="Left" Margin="482,939,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxDistanceParcourue2" HorizontalAlignment="Left" Height="23" Margin="716,950,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.55,0.808"/>
+            <Label x:Name="labelEnergieProduite2" Content="Energie produite :" HorizontalAlignment="Left" Margin="501,848,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="32" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxEnergieProduite2" HorizontalAlignment="Left" Height="34" Margin="532,900,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+            <Rectangle x:Name="rec2" HorizontalAlignment="Left" Height="165" Margin="482,847,0,0" Stroke="Black" VerticalAlignment="Top" Width="316">
+                <Rectangle.Fill>
+                    <ImageBrush/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label x:Name="labelCouleur3"  HorizontalAlignment="Left" Margin="908,814,0,0" VerticalAlignment="Top" Height="28" Width="26" Background="#FF00FF17" RenderTransformOrigin="3.048,0.952"/>
+            <Label x:Name="labelCalorie3" Content="Calories Brûlées :" HorizontalAlignment="Left" Margin="908,970,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.686,0.212" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxCalorie3" HorizontalAlignment="Left" Height="23" Margin="1142,981,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"/>
+            <Label x:Name="labelDistanceParcourue3" Content="Distance Parcourue :" HorizontalAlignment="Left" Margin="908,939,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxDistanceParcourue3" HorizontalAlignment="Left" Height="23" Margin="1142,950,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.55,0.808"/>
+            <Label x:Name="labelEnergieProduite3" Content="Energie produite :" HorizontalAlignment="Left" Margin="927,848,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="32" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxEnergieProduite3" HorizontalAlignment="Left" Height="34" Margin="957,900,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+            <Rectangle x:Name="rec3" HorizontalAlignment="Left" Height="165" Margin="908,847,0,0" Stroke="Black" VerticalAlignment="Top" Width="316">
+                <Rectangle.Fill>
+                    <ImageBrush/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label x:Name="labelCouleur4"  HorizontalAlignment="Left" Margin="1310,814,0,0" VerticalAlignment="Top" Height="28" Width="28" Background="#FFA152FF" RenderTransformOrigin="11.286,4.429" Visibility="Visible"/>
+            <Label x:Name="labelCalorie4" Content="Calories Brûlées :" HorizontalAlignment="Left" Margin="1310,970,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.686,0.212" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxCalorie4" HorizontalAlignment="Left" Height="23" Margin="1544,981,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"/>
+            <Label x:Name="labelDistanceParcourue4" Content="Distance Parcourue :" HorizontalAlignment="Left" Margin="1310,939,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="24" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxDistanceParcourue4" HorizontalAlignment="Left" Height="23" Margin="1544,950,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.55,0.808"/>
+            <Label x:Name="labelEnergieProduite4" Content="Energie produite :" HorizontalAlignment="Left" Margin="1328,848,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="32" FontWeight="Bold"/>
+            <TextBox x:Name="textBoxEnergieProduite4" HorizontalAlignment="Left" Height="34" Margin="1358,900,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+            <Rectangle x:Name="rec4" HorizontalAlignment="Left" Height="165" Margin="1310,847,0,0" Stroke="Black" VerticalAlignment="Top" Width="316">
+                <Rectangle.Fill>
+                    <ImageBrush/>
+                </Rectangle.Fill>
+            </Rectangle>
+
+
+            <Button x:Name="buttonImprimer" Margin="0,16,16,0" Focusable="False" Height="70" VerticalAlignment="Top" HorizontalAlignment="Right" Width="86" Click="buttonImprimer_Click" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Image x:Name="Imprimer" Height="50" Width="50" Source="../../Images/printer67.png" OpacityMask="#FFACAC38">
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.156"/>
+                            <TranslateTransform Y="0.004"/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+            </Button>
+
+            <cefSharp:ChromiumWebBrowser x:Name="CefHistoCollabo" Margin = "394,10,395,256"/>
+            <!--Image x:Name = "graph_vitesse" Source = "D:/VeloPublic/VeloPublic/Images/Graph_1.png" OpacityMask = "#FFACAC38" Margin = "394,10,395,256" /-->
+
+        </Grid>
+    </Grid>
+</Window>

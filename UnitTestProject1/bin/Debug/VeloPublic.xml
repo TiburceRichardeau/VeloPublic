@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VeloPublic</name>
+    </assembly>
+    <members>
+        <member name="M:VeloPublic.Log.#ctor(VeloPublic.Log.Type,System.String)">
+            <summary>
+            Constructeur de log
+            Permet d'enregistrer dans un fichier log ce qui se passe dans l'application
+            </summary>
+            <param name="t">Contient le type de log (soit "info", soit "Erreur", soit "Autre"</param>
+            <param name="message">Contient le message d'info ou d'erreur a enregistrer</param>
+        </member>
+        <member name="M:VeloPublic.Log.enregistrerInfo">
+            <summary>
+            Permet d'enregister un log dans le fichier d'infos
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Log.enregistrerErreur">
+            <summary>
+            Permet d'enregistrer un log dans le fichier d'erreur
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Log.enregistrerLog">
+            <summary>
+            Permet d'enregistrer un log dans le fichier principal
+            </summary>
+        </member>
+        <member name="T:VeloPublic.NewEvenement">
+            <summary>
+            Logique d'interaction pour NewEvenement.xaml
+            </summary>
+            <summary>
+            NewEvenement
+            </summary>
+        </member>
+        <member name="M:VeloPublic.NewEvenement.#ctor">
+            <summary>
+            Constructeur par défaut de la fenetre NewEvenement
+            </summary>
+        </member>
+        <member name="M:VeloPublic.NewEvenement.remplirListEv">
+            <summary>
+            Replissage de la liste des évenements existant en cas de choix de choix d'évenement précédement créer
+            </summary>
+        </member>
+        <member name="M:VeloPublic.NewEvenement.listViewEv_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Permet de récupérer l'id de l'évenement sélectionné dans la listeView
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:VeloPublic.NewEvenement.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.SQLCo">
+            <summary>
+            Class SQLCo qui peremt de se connecter a la base de donnée
+            </summary>
+        </member>
+        <member name="P:VeloPublic.SQLCo.server">
+            <summary>
+            Contient l'adresse du server de base de données
+            </summary>
+        </member>
+        <member name="P:VeloPublic.SQLCo.uid">
+            <summary>
+            Contient le nom d'utilisateur de la base de données
+            </summary>
+        </member>
+        <member name="P:VeloPublic.SQLCo.password">
+            <summary>
+            Contient le mot de passe asssocié au nom d'utilisateur
+            </summary>
+        </member>
+        <member name="P:VeloPublic.SQLCo.db">
+            <summary>
+            Contient le nom de la base de données a utiliser
+            </summary>
+        </member>
+        <member name="P:VeloPublic.SQLCo.charset">
+            <summary>
+            Contient le codage de caractère a utiliser
+            </summary>
+        </member>
+        <member name="F:VeloPublic.SQLCo.conn">
+            <summary>
+            Objet de connexion MySQL
+            Permet de se connecter a base de données MySQL
+            </summary>
+        </member>
+        <member name="M:VeloPublic.SQLCo.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Constructeur de la classe SQLCO
+            </summary>
+            <param name="server">Contient l'adresse du serveur</param>
+            <param name="uid">contient id de connexion a la base de données</param>
+            <param name="password">contient le mot de passe</param>
+            <param name="db">contient le nom de la bd a utiliser</param>
+            <param name="charset">contient le type d'encodage de caractère a utiliser</param>
+        </member>
+        <member name="M:VeloPublic.SQLCo.connexion">
+            <summary>
+            Permet de se connecter a la base de données
+            </summary>
+        </member>
+        <member name="M:VeloPublic.SQLCo.deconnexion">
+            <summary>
+            Permet de fermer la connexion a la base de données
+            </summary>
+        </member>
+        <member name="M:VeloPublic.SQLCo.insert(System.String)">
+            <summary>
+            Permet d'insérer des données dans la base
+            RequeteNonQuery
+            </summary>
+            <param name="requete">contient la requete a éxécuter</param>
+            <returns>l'id (clé primaire) de la ligné insérée</returns>
+        </member>
+        <member name="M:VeloPublic.SQLCo.select(System.String)">
+            <summary>
+            Permet de faire un "select"
+            </summary>
+            <param name="requete">contient la requete select a éxecuter</param>
+            <returns>retourne le resultat du select</returns>
+        </member>
+        <member name="T:VeloPublic.App">
+            <summary>
+            Logique d'interaction pour App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:VeloPublic.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:VeloPublic.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:VeloPublic.Course">
+            <summary>
+            Classe course qui peremet de créer une course et de l'enregistrer dans la base de donnée
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Course.idCourse">
+            <summary>
+            Contient l'id de la course, utile pour la base de donnée
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Course.idEvenement">
+            <summary>
+            Contient l'id de l'évenement dont fait parti la course
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Course.estUnDefi">
+            <summary>
+            Booléen qui permet de savoir si la course un est un défi ou une collaboration
+            true : la course est un défi
+            false : la course est une collaboration
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Course.#ctor(System.Int64,System.Boolean)">
+            <summary>
+            Constructeur de course 
+            </summary>
+            <param name="idEvenement">Contient l'id de l'évenement auquel est ratachée la course</param>
+            <param name="estUnDefi">Permet de savoir si la course est un défi ou une collaboration</param>
+        </member>
+        <member name="T:VeloPublic.Evenement">
+            <summary>
+            Class Evenement
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Evenement.id_long">
+            <summary>
+            Contient l'id de l'évenement, utile pour la base de donnée
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Evenement.nom">
+            <summary>
+            contient le nom de l'évenement
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Evenement.date">
+            <summary>
+            Contient la date de l'évenement
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Evenement.lieu">
+            <summary>
+            Contient le lieu de l'évenement
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Evenement.#ctor">
+            <summary>
+            Constructeur par défaut d'évenement
+            Permet de créer un evenment
+            Il faudra ensuite utuiliser les gets et les sets pour enregistrer les infos sur l'évenement
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Evenement.#ctor(System.String,System.DateTime,System.String)">
+            <summary>
+            Constructeur d'évement
+            </summary>
+            <param name="nom">contient le nom de l'évenement</param>
+            <param name="date">Contient la date de l'évenement</param>
+            <param name="lieu">Contient le lieu de l'évenement</param>
+        </member>
+        <member name="M:VeloPublic.Evenement.verifierNomEv">
+            <summary>
+            Permet de vérifier si le nom de l'évenement saisi n'est pas trop long pour la base de donnée
+            </summary>
+            <returns>true si le nom n'est pas trop long false sinon</returns>
+        </member>
+        <member name="M:VeloPublic.Evenement.verifierLieuEv">
+            <summary>
+            Permet de vérifier si le lieu saisi n'est pas trop long pour la base de donnée
+            </summary>
+            <returns>true si le nom du lieu n'est pas trop long false sinon</returns>
+        </member>
+        <member name="T:VeloPublic.Participant">
+            <summary>
+            Class participant
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.nom">
+            <summary>
+            Contient le nom du participant
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.prenom">
+            <summary>
+            Contient le prénom du participant
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.poids">
+            <summary>
+            Contient le poids du participant
+            sous forme de double
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.poidsString">
+            <summary>
+            Contient le poids du participant
+            sous forme de string
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.poidsCorrect">
+            <summary>
+            Booléen qui détermine si le poids est correctement saisi
+            true : le poids est correct
+            false : le poids n'est pas correctement saisi
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.poidsNonRenseigner">
+            <summary>
+            Booléen qui détermine si le poids est renseigné ou non
+            true : le poids n'est pas renseigné
+            false : le poids est renseigné
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.nomRenseigner">
+            <summary>
+            Booléen qui permet de savoir si le nom du participant (nom+prénom) est correctement saisi
+            true : le nom est bien renseigné
+            false : le nom n'est pas correctement renseigné
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.id_course">
+            <summary>
+            Contient l'id de la couse a laquelle le cycliste participe
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.vitesse">
+            <summary>
+            Contient la vitesse du cycliste
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.distance">
+            <summary>
+            Contient la distance parcourus par le cycliste
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.niveau">
+            <summary>
+            Contient le niveau de difficulté choisi par le cycliste sur le vélo
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.vitesseMoyenne">
+            <summary>
+            Contient la vitesse moyenne du cycliste
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.calories">
+            <summary>
+            Contient les calories brulée par le cycliste (le poids doit être renseigné)
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Participant.production">
+            <summary>
+            Contient l'énergie produite par le cycliste
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Participant.#ctor(System.String,System.String,System.String,System.Int64)">
+            <summary>
+            Constructeur de la classe participant
+            </summary>
+            <param name="prenom">contient le prénom du participant</param>
+            <param name="nom">contient le nom du participant</param>
+            <param name="poidsString">contient le poids du participant</param>
+            <param name="id_course">contient l'id de la course au quel le cycliste participe</param>
+        </member>
+        <member name="M:VeloPublic.Participant.verifNP">
+            <summary>
+            Méthode qui permet de vérifier le nom et le prénom du participant ont bien été saisis
+            </summary>
+            <returns>true si les infos sont correctement saisies false sinon</returns>
+        </member>
+        <member name="M:VeloPublic.Participant.verifPoids">
+            <summary>
+            Permet de vérifier si le poids du participant a bien été saisi
+            </summary>
+            <returns>true si le poids a bien été saisi false sinon</returns>
+        </member>
+        <member name="M:VeloPublic.Participant.calorieBrule">
+            <summary>
+            Permet de calculer le nombre de calorie brulée par le cycliste par seconde
+            Methode a éxécuter toutes les secondes pendant la course
+            </summary>
+        </member>
+        <member name="T:VeloPublic.Properties.Resources">
+            <summary>
+              Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Properties.Resources.ResourceManager">
+            <summary>
+              Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+            </summary>
+        </member>
+        <member name="P:VeloPublic.Properties.Resources.Culture">
+            <summary>
+              Remplace la propriété CurrentUICulture du thread actuel pour toutes
+              les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+            </summary>
+        </member>
+        <member name="T:VeloPublic.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:VeloPublic.MainWindow.#ctor">
+            <summary>
+            Constructeur de la fenetre qui permet de choisir le mode (mainWindow)
+            Fentre de démarrage de l'application
+            </summary>
+        </member>
+        <member name="M:VeloPublic.MainWindow.verifierResolution">
+            <summary>
+            Permet de vérifier si la résolution de l'écran est suffisante pour afficher la fentre
+            </summary>
+            <returns>true si la résolution est suffisante false sinon</returns>
+        </member>
+        <member name="M:VeloPublic.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.Erreur">
+            <summary>
+            Logique d'interaction pour Erreur.xaml
+            </summary>
+            <summary>
+            Erreur
+            </summary>
+        </member>
+        <member name="M:VeloPublic.Erreur.#ctor(System.String)">
+            <summary>
+            Constructeur de la fenetre Erreur
+            </summary>
+            <param name="message">Contient le message d'erreur a afficher</param>
+        </member>
+        <member name="M:VeloPublic.Erreur.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.ModeCollaboChoixParticipants">
+            <summary>
+            Logique d'interaction pour ModeCollaboChoixParticipants.xaml
+            </summary>
+            <summary>
+            ModeCollaboChoixParticipants
+            </summary>
+        </member>
+        <member name="M:VeloPublic.ModeCollaboChoixParticipants.#ctor">
+            <summary>
+            Constructeur par défaut de la fenetre ModeCollaboChoixParticipants
+            </summary>
+        </member>
+        <member name="M:VeloPublic.ModeCollaboChoixParticipants.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.ModeDefiChoixParticipants">
+            <summary>
+            Logique d'interaction pour ModeDefiChoixParticipants.xaml
+            </summary>
+            <summary>
+            ModeDefiChoixParticipants
+            </summary>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.get_TextBoxMin">
+            <summary>
+            Permet de recupérer le nombre de minutes du défi saisi par l'utilisateur
+            </summary>
+            <returns>nombre de minutes en string</returns>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.set_TextBoxMin(System.String)">
+            <summary>
+            Permet de définir le nombre de minutes saisi par l'utilisateur dans les tests unitaires
+            </summary>
+            <param name="min">contient le nombre de minutes en string</param>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.get_TextBoxSec">
+            <summary>
+            Permet de récuperer le nombre de secondes saisi par l'utilisateur
+            </summary>
+            <returns>Le nombre de seconde en string</returns>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.set_TextBoxSec(System.String)">
+            <summary>
+            Permet de définir le nombre de secondes saisi par l'utilisateur dans les tests unitaires 
+            </summary>
+            <param name="sec">contient le nombde de secondes en string</param>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.#ctor">
+            <summary>
+            Constructeur par défaut de la fenetre ModeDefiChoixParticipants
+            Cette fenetre permet a l'utilisateur de replir les données des différents cyclistes qui participe a la course
+            </summary>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.radioButton1_Checked(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Permet de gérer l'affichage des champs de saisi en fonction du nombre de participants
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.verifierTemps">
+            <summary>
+            Permet de vérifier si le temps de défi saisi par l'utilisateur est correctement saisi.
+            </summary>
+            <returns>vrai si le temps est correctement saisi false sinon</returns>
+        </member>
+        <member name="M:VeloPublic.ModeDefiChoixParticipants.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.WindowDefiEnCours">
+            <summary>
+            Logique d'interaction pour WindowDefiEnCours.xaml
+            </summary>
+            <summary>
+            WindowDefiEnCours
+            </summary>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.#ctor(VeloPublic.Participant)">
+            <summary>
+            Constructeur a 1 participant
+            </summary>
+            <param name="p1">premier participant</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.#ctor(VeloPublic.Participant,VeloPublic.Participant)">
+            <summary>
+            Constructeur a 2 participants
+            </summary>
+            <param name="p1">premier participant</param>
+            <param name="p2">deuxième participant</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.#ctor(VeloPublic.Participant,VeloPublic.Participant,VeloPublic.Participant)">
+            <summary>
+            Constructeur a 3 participants
+            </summary>
+            <param name="p1">Premier Participant</param>
+            <param name="p2">Deuxième Participant</param>
+            <param name="p3">Troisième Participant</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.#ctor(VeloPublic.Participant,VeloPublic.Participant,VeloPublic.Participant,VeloPublic.Participant)">
+            <summary>
+            Constructeur a 4 participants
+            </summary>
+            <param name="p1">Premier participant</param>
+            <param name="p2">Deuxième Participant</param>
+            <param name="p3">Troisième Participant</param>
+            <param name="p4">Quatrième Participant</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.afficherP1(VeloPublic.Participant)">
+            <summary>
+            Permet d'afficher les données pour le premier participant
+            </summary>
+            <param name="p">Participant a afficher</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.afficherP2(VeloPublic.Participant)">
+            <summary>
+            Permet d'afficher les données pour le deuxième participant
+            </summary>
+            <param name="p">Participant a afficher</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.afficherP3(VeloPublic.Participant)">
+            <summary>
+            Permet d'afficher les données pour le troisième participant
+            </summary>
+            <param name="p">Participant a afficher</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.afficherP4(VeloPublic.Participant)">
+            <summary>
+            Permet d'afficher les données pour le quatrième participant
+            </summary>
+            <param name="p">Participant a afficher</param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.MetroWindow_Closing(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Méthode éxécutée a la fermeture de la fenetre
+            </summary>
+            <param name="sender"></param>
+            <param name="e">Evenement de fermeture </param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.buttonAfficherRapport_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Méthode éxécutée lors de l'appui sur le bouton qui affiche le rapport du défi
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.dispatcherTimer_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Methode exécuter dans le thread (toutes les secondes, pour afficher mettre a jour le chronomètre
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.buttonTerminerDéfi_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Méthode éxécuter lors de l'appui sur le bouton qui termine le défi
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:VeloPublic.WindowDefiEnCours.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.WindowInfos">
+            <summary>
+            Logique d'interaction pour WindowInfos.xaml
+            </summary>
+            <summary>
+            WindowInfos
+            </summary>
+        </member>
+        <member name="M:VeloPublic.WindowInfos.#ctor">
+            <summary>
+            Constructeur de la fenetre WindowInfos
+            </summary>
+        </member>
+        <member name="M:VeloPublic.WindowInfos.buttonOk_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Action lors de l'appui sur le bouton ok de la fentre
+            </summary>
+            <param name="sender"></param>
+            <param name="e">Evenement lors du clic sur le bouton</param>
+        </member>
+        <member name="M:VeloPublic.WindowInfos.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:VeloPublic.WindowRapportDefi">
+            <summary>
+            Logique d'interaction pour WindowDefiEnCours.xaml
+            </summary>
+            <summary>
+            WindowRapportDefi
+            </summary>
+        </member>
+        <member name="M:VeloPublic.WindowRapportDefi.#ctor(VeloPublic.Participant,VeloPublic.Participant,VeloPublic.Participant,VeloPublic.Participant)">
+            <summary>
+            Constructeur de la fenetre de rapport de défi, j'usqu'a 4 participants
+            </summary>
+            <param name="p1">Permier Participant au défi</param>
+            <param name="p2">Deuxième Participant au défi</param>
+            <param name="p3">Troisème Participant au défi</param>
+            <param name="p4">Quatrième Participant au défi</param>
+        </member>
+        <member name="M:VeloPublic.WindowRapportDefi.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

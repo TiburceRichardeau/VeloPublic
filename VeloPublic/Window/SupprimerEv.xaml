@@ -1,0 +1,25 @@
+﻿<Controls:MetroWindow x:Class="VeloPublic.Window.SupprimerEv"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VeloPublic.Window"
+        mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Supprimer événement" Height="120" Width="300" ResizeMode="NoResize"
+        BorderBrush="Gray"
+        Closing="MetroWindow_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label x:Name="SupprimerEvenement" Content="Voulez-vous supprimer l'événement ?" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="buttonSupprimer" Content="Supprimer" Width="100" Height="30" Grid.Column="0" Grid.Row="1" Click="buttonSupprimer_Click" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button x:Name="buttonAnnuler" Content="Annuler" Width="100" Height="30" Grid.Column="1" Grid.Row="1" Click="buttonAnnuler_Click" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Controls:MetroWindow>

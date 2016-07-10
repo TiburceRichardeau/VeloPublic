@@ -1,0 +1,51 @@
+﻿<controls:MetroWindow
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+                      xmlns:mahMaterialDragablzMashUp="clr-namespace:VeloPublic"
+                      xmlns:dockablz="clr-namespace:Dragablz.Dockablz;assembly=Dragablz"
+                      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="VeloPublic.MainWindow"
+                      WindowTransitionsEnabled="False"
+                      Background="#2196F3"
+                      GlowBrush="{DynamicResource AccentColorBrush}"  
+                      Title="Energie Cycle" Height="450" Width="900" MinHeight="450" MinWidth="900">
+    <controls:MetroWindow.RightWindowCommands>
+        <controls:WindowCommands>
+            <Button x:Name="ButtonInfos" Click="ButtonInfos_Click" MouseEnter="ButtonInfos_MouseEnter" MouseLeave="ButtonInfos_MouseLeave">
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20" Height="20" Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_information_circle}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock x:Name="textblockInfos" Text=" A propos " />
+                </StackPanel>
+            </Button>
+
+        </controls:WindowCommands>
+    </controls:MetroWindow.RightWindowCommands>
+    <Grid x:Name="ChoixMode">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="257*"/>
+            <RowDefinition Height="87*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="labelTitre" Content="Selectionnez un mode" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="30" HorizontalAlignment="Center" Width="320" Foreground="White" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Height="50"/>
+        <Image x:Name="modeCollaboImage" Source="../Images/tandem.png" OpacityMask="#FFACAC38" Focusable="False" MouseEnter="modeCollaboImage_MouseEnter" MouseLeave="modeCollaboImage_MouseLeave" Grid.Column="1" Grid.Row="1" Margin="10,10,10,10" MouseLeftButtonUp="modeCollaboImage_MouseLeftButtonUp"/>
+        <Label x:Name="labelCollabo" Content="Collaboration" HorizontalAlignment="Center" Width="188" MouseUp="labelCollabo_MouseUp"  MouseEnter='labelCollabo_MouseEnter' MouseLeave="labelCollabo_MouseLeave"  Foreground="White" FontSize="25" HorizontalContentAlignment="Center" Grid.Column="1" Grid.Row="2"/>
+
+        <Image x:Name="modeDefiImage" Source="../Images/defi.png" OpacityMask="#FFACAC38" MouseLeftButtonUp="modeDefiImage_MouseLeftButtonUp" MouseEnter="modeDefiImage_MouseEnter" MouseLeave="modeDefiImage_MouseLeave" Grid.Column="0" Grid.Row="1" Margin="10,10,10,10"/>
+        <Label x:Name="labelDefi" Content="Défi" HorizontalAlignment="Center" MouseUp="labelDefi_MouseUp" MouseEnter="labelDefi_MouseEnter" MouseLeave="labelDefi_MouseLeave" Foreground="White" FontSize="25" Width="66" HorizontalContentAlignment="Center" Grid.Column="0" Grid.Row="2"/>
+
+        <Image x:Name="ParamEvenementImage" Height="22" Width="22" Source="../Images/circle.png" OpacityMask="#FFACAC38" Margin="0,0,41,36" HorizontalAlignment="Right" VerticalAlignment="Bottom" MouseLeftButtonDown="ParamEvenementImage_MouseLeftButtonDown" MouseEnter="ParamEvenementImage_MouseEnter" MouseLeave="ParamEvenementImage_MouseLeave" RenderTransformOrigin="6.516,6.536" Grid.Column="1" Grid.Row="2" Visibility="Hidden">
+            <Image.ToolTip>
+                <Label Content="A propos"/>
+            </Image.ToolTip>
+        </Image>
+    </Grid>
+</controls:MetroWindow>

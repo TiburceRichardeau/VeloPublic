@@ -1,0 +1,78 @@
+﻿<Controls:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VeloPublic"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="VeloPublic.ModeCollaboChoixParticipantsTrue"                      
+        mc:Ignorable="d"
+        Title="Energie Cycle - Mode Collaboration Choix Participants" Height="496.55" Width="1200"
+        ResizeMode="NoResize" Closing="MetroWindow_Closing">
+    <Grid>
+        <Viewbox Margin="562,0,554,0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" Width="78">
+            <TextBlock x:Name="TextBlockMode" TextAlignment="Center" Height="18" Width="67" Foreground="White"/>
+        </Viewbox>
+        <StackPanel Name="stackpanelchoixnbpersonnes" HorizontalAlignment="Left" Height="37" Margin="562,103,0,0" VerticalAlignment="Top" Width="276" Orientation="Horizontal">
+            <RadioButton x:Name="radioButton1" Content="1" Width="70" Checked="radioButton1_Checked" Foreground="White" FontSize="29.333"/>
+            <RadioButton x:Name="radioButton2" Content="2" Width="70" Checked="radioButton1_Checked" Foreground="White" FontSize="29.333" />
+            <RadioButton x:Name="radioButton3" Content="3" Width="70" Checked="radioButton1_Checked" Foreground="White" FontSize="29.333" />
+            <RadioButton x:Name="radioButton4" Content="4" Width="70" Checked="radioButton1_Checked" Foreground="White" FontSize="29.333"/>
+        </StackPanel>
+        <Label x:Name="labelNbParticipants" Content="Combien de personnes participent ?" HorizontalAlignment="Left" Margin="23,87,0,0" VerticalAlignment="Top" FontSize="32" Foreground="White"/>
+        <materialDesign:ColorZone Height="122" Margin="0,60,0,0" VerticalAlignment="Top" Background="#2196F3" Panel.ZIndex="-1"/>
+        <materialDesign:ColorZone Margin="0,187,0,0" Background="#455A64" Panel.ZIndex="-1" x:Name="ColorZoneNbParticipant" Height="281">
+            <Grid Margin="0,0,0,271">
+
+            </Grid>
+        </materialDesign:ColorZone>
+        <Grid Margin="0,0,0,1" Visibility="Visible">
+            <Label x:Name="labelCycliste1" Content="Cycliste 1" HorizontalAlignment="Left" Margin="83,189,0,0" Height="45" VerticalAlignment="Top" FontSize="26.667" FontWeight="Bold" Foreground="White" Visibility="Hidden"/>
+            <Label x:Name="labelCouleur1"  HorizontalAlignment="Left" Margin="216,201,0,0" VerticalAlignment="Top" Height="27" Width="27" Background="#FF00D6E0" Visibility="Hidden"/>
+            <Label x:Name="labelNom1" Content="NOM" HorizontalAlignment="Left" Margin="46,234,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="24" Foreground="White" Visibility="Hidden"/>
+            <TextBox x:Name="textBoxNom1" HorizontalAlignment="Left" Height="23" Margin="126,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+            <Label x:Name="labelPrenom1" Content="Prénom" HorizontalAlignment="Left" Margin="21,291,0,0" VerticalAlignment="Top" FontSize="24" Foreground="White" Visibility="Hidden"/>
+            <TextBox x:Name="textBoxPrenom1" HorizontalAlignment="Left" Height="23" Margin="126,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+            <Label x:Name="labelPoids1" Content="Poids" HorizontalAlignment="Left" Margin="46,348,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" FontSize="24" Foreground="White" Visibility="Hidden"/>
+            <TextBox x:Name="textBoxPoids1" HorizontalAlignment="Left" Height="23" Margin="126,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+
+
+            <Label x:Name="labelCycliste2" Content="Cycliste 2" HorizontalAlignment="Left" Margin="357,189,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.158,-0.577" Foreground="White" FontSize="26.667" FontWeight="Bold" Visibility="Hidden"/>
+            <Label x:Name="labelCouleur2"  HorizontalAlignment="Left" Margin="490,201,0,0" VerticalAlignment="Top" Height="27" Width="27" Background="#FFE00000" RenderTransformOrigin="1.222,0.556" Visibility="Hidden"/>
+            <Label x:Name="labelNom2" Content="NOM" HorizontalAlignment="Left" Margin="314,234,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" Foreground="White" FontSize="24" Visibility="Hidden"/>
+            <TextBox x:Name="textBoxNom2" HorizontalAlignment="Left" Height="23" Margin="397,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+            <Label x:Name="labelPrenom2" Content="Prénom" HorizontalAlignment="Left" Margin="289,291,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.686,0.212" Foreground="White" FontSize="24" Visibility="Hidden"/>
+            <TextBox x:Name="textBoxPrenom2" HorizontalAlignment="Left" Height="23" Margin="397,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+            <Label x:Name="labelPoids2" Content="Poids" HorizontalAlignment="Left" Margin="314,348,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" Foreground="White" FontSize="24" Visibility="Hidden"/>
+            <TextBox x:Name="textBoxPoids2" HorizontalAlignment="Left" Height="23" Margin="397,358,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+
+
+            <Label x:Name="labelCycliste3" Content="Cycliste 3" HorizontalAlignment="Left" Margin="687,189,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.158,-0.577" Foreground="White" FontSize="26.667" FontWeight="Bold" Visibility="Hidden"/>
+            <Label x:Name="labelCouleur3"  HorizontalAlignment="Left" Margin="820,201,0,0" VerticalAlignment="Top" Height="27" Width="27" Background="#FF14E000" Visibility="Hidden"/>
+            <Label x:Name="labelNom3" Content="NOM" HorizontalAlignment="Left" Margin="643,234,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" Visibility="Hidden" Foreground="White" FontSize="24"/>
+            <TextBox x:Name="textBoxNom3" HorizontalAlignment="Left" Height="23" Margin="727,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+            <Label x:Name="labelPrenom3" Content="Prénom" HorizontalAlignment="Left" Margin="618,291,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.686,0.212" Visibility="Hidden" Foreground="White" FontSize="24"/>
+            <TextBox x:Name="textBoxPrenom3" HorizontalAlignment="Left" Height="23" Margin="727,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+            <Label x:Name="labelPoids3" Content="Poids" HorizontalAlignment="Left" Margin="643,348,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" Visibility="Hidden" FontSize="24" Foreground="White" />
+            <TextBox x:Name="textBoxPoids3" HorizontalAlignment="Left" Height="23" Margin="727,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+
+
+            <Label x:Name="labelCycliste4" Content="Cycliste 4" HorizontalAlignment="Left" Margin="958,189,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.158,-0.577" Visibility="Hidden" Foreground="White" FontSize="26.667" FontWeight="Bold"/>
+            <Label x:Name="labelCouleur4"  HorizontalAlignment="Left" Margin="1091,201,0,0" VerticalAlignment="Top" Height="27" Width="27" Background="#FF7A00E0" Visibility="Hidden"/>
+            <Label x:Name="labelNom4" Content="NOM" HorizontalAlignment="Left" Margin="907,234,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" Visibility="Hidden" Foreground="White" FontSize="24" Width="79"/>
+            <TextBox x:Name="textBoxNom4" HorizontalAlignment="Left" Height="23" Margin="998,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+            <Label x:Name="labelPrenom4" Content="Prénom" HorizontalAlignment="Left" Margin="893,291,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.686,0.212" Visibility="Hidden" Foreground="White" FontSize="24"/>
+            <TextBox x:Name="textBoxPrenom4" HorizontalAlignment="Left" Height="23" Margin="998,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+            <Label x:Name="labelPoids4" Content="Poids" HorizontalAlignment="Left" Margin="918,348,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,1.596" Visibility="Hidden" Foreground="White" FontSize="24"/>
+            <TextBox x:Name="textBoxPoids4" HorizontalAlignment="Left" Height="23" Margin="998,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"  Visibility="Hidden"/>
+
+            <Button x:Name="buttonValider" Content="VALIDER" HorizontalAlignment="Left" Margin="519,408,0,0" VerticalAlignment="Top" Width="112" Click="buttonValider_Click" Focusable="False" Visibility="Hidden" Height="43" FontSize="21.333" FontWeight="Bold"/>
+
+
+            <Label x:Name="labelTempsMinDefi" Content="mins" HorizontalAlignment="Left" Margin="546,358,0,0" VerticalAlignment="Top" Visibility="Hidden" Foreground="White"/>
+            <TextBox x:Name="textBoxTempsMinDefi" HorizontalAlignment="Left" Height="23" Margin="490,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Visibility="Hidden" />
+            <Label x:Name="labelTempsSecDefi" Content="secondes" HorizontalAlignment="Left" Margin="636,358,0,0" VerticalAlignment="Top" RenderTransformOrigin="6.093,1.325" Visibility="Hidden" Foreground="White"/>
+            <TextBox x:Name="textBoxTempsSecDefi" HorizontalAlignment="Left" Height="23" Margin="581,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" RenderTransformOrigin="2.38,-1.465" Visibility="Hidden"  />
+        </Grid>
+        <materialDesign:ColorZone x:Name="ColorZoneTitre" Height="53" Margin="0,2,0,0" VerticalAlignment="Top" Background="#1976D2" Panel.ZIndex="-1"/>
+    </Grid>
+</Controls:MetroWindow>
